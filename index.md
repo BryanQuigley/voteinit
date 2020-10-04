@@ -2,7 +2,10 @@
 layout: page
 ---
 
-🗳️ A comparison of what different voting guides think of different propositions for California November 2020.
+🗳️ A comparison of what different voting guides think of different propositions for the November 2020 US Election.
+
+* TOC
+{:toc}
 
 
 ## California Ballot Propositions
@@ -47,3 +50,61 @@ Vote Yes on Measure J to increase spending on housing and mental-health services
 
 ### Long Beach 
 Measure US - ✅ Raise taxes on Oil (and not by a lot from 15c to 30c a barrel). No one appears to be against it.
+
+### San Francisco
+
+| Abbreviation  | For |
+|----|-----|
+| LWV | [League of Women Voters of SF](https://lwvsf.org/ballot-recommendations) |
+| LPV | [League of Pissed Off Voters](http://www.theleaguesf.org/voter_guides) |
+| ISF | [Indivisible](https://indivisiblesf.org/nov-2020-ballot-prop-cheat-sheet)  |
+
+
+| #  |LWV | LPV|  ISF | Description
+|---|--- |--   | ---- | ----------- |
+| A | ✅ | ✅ | ✅ | Health and Homelessness, Parks, and Streets Bond |
+| B | ❓ | ✅ | ✅ | Public Works Commission, Department of Sanitation and Streets,  and Sanitation and Streets Commission |
+| C | ✅ | ✅ | ✅ | Removing Citizenship Requirements for Members of City Bodies |
+| D | ✅ | ✅ | ✅ | Sheriff’s Department Oversight Board and Inspector General |
+| E | ✅ | ✅ | ✅ | Police Department Staffing Levels |
+| F | ✅ | ✅ | ✅ | Business Tax Overhaul |
+| G | ✅ | ✅ | ✅ | Youth Voting in Local Elections |
+| H | ✅ | 👎 | ❓ | Neighborhood Commercial Districts and City Permitting |
+| I | ✅ | ✅ | ✅ | Real Estate Transfer Tax |
+| J | ✅ | ✅ | ✅ |  Parcel Tax for San Francisco Unified School District |
+| K | ✅ | ✅ | ✅ |  Affordable Housing Authorization |
+| L | ❓ | ✅ | ✅ |  Business Tax Based on Comparison of Top Executive's Pay to Employees’ Pay |
+
+
+### Berkeley
+
+League of Women Voter's [guide on these](https://www.lwvbae.org/wp-content/uploads/2020/08/Berkeley-Measures-20-11.pdf).
+
+| Abbreviation  | For |
+|----|-----|
+|BDC | [Berkeley Democratic Club](http://www.berkeleydemocraticclub.info/) |
+|GP  | [Local Green Party - Berkeley/Albany](https://acgreens.wordpress.com/voter-guides/)
+
+
+| #  | BDC| GP | Description
+|----|--- |--  | ----------- |
+| FF | ✅ | ✅ | Fire, Emergency Services and Wildfire Prevention Tax
+| GG | ✅ | ✅ | Tax on Transportation Network Company Trips
+| HH | ❓ | ✅ | Utility Users Tax
+| II | ✅ | ✅ | Police Accountability Charter Amendment
+| JJ | ❓ | ✅ | Mayor and Council Compensation
+| KK | 👎 | ✅ | Administrative Provisions and City Attorney
+| LL | ✅ | ✅ | GANN Limit Spending Authority
+| MM | 👎 | ✅ | Rent Stabilization Ordinance
+
+### Albany
+League of Women Voter's does another awesome [non-partisan guide](https://www.lwvbae.org/wp-content/uploads/2020/08/Albany-Measures-20-11.pdf).
+
+GP recommended yes on all but the last 3 with reservations.
+
+| #  | GP | Description
+|----| --  | ----------- |
+| BB | ✅ | Ranked Choice Voting
+| GG | ✅ | Real Property Transfer Tax
+| HH | ✅ | Utility Users’ Tax
+| II | ✅ | Paramedic, Fire Engines, and Ambulance Special Tax
