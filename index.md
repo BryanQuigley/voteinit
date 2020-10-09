@@ -7,6 +7,32 @@ layout: page
 * TOC
 {:toc}
 
+## Alabama
+
+
+| Abbreviation  | For |
+|----|-----|
+| LWV | [League of Women Voters of Alabama - PDF](https://lwval.org/takeaction/lwval-amendment-recommendations-2020.pdf)
+| ACLU | [ACLU of Alabama](https://www.aclualabama.org/en/2020vote)
+
+
+| #  | LWV| ACLU | Description
+|----|--- |--    | ----------- |
+| 1 | 👎 | 👎   | Change constitution from a right (every citizen) to a restriction (only citizens). No difference in current law though.
+| 2 | ❓ | ❓   | Makes changes to judicial law and court systems and procedures 
+| 3 | ❓ | ❓   | Provide that a judge, other than a probate judge, appointed to fill a vacancy would serve an initial term until the first Monday after the second Tuesday in January following the next general election after the judge has completed two years in office 
+| 4 | ✅ | ✅   | Authorizes the state legislature during the 2022 regular session to recompile the Alabama Constitution and provide for its ratification 
+| 5 | 👎 | 👎   | Provides for a "stand your ground" law applicable to individuals in churches in Franklin county 
+| 6 | 👎 | 👎   | Administrative Provisions and City Attorney
+
+## Alaska
+My quick take is to vote yes on both Alaska measures but I haven't found other recommendations.  [Ballotpedia](https://ballotpedia.org/Alaska_2020_ballot_measures)
+
+## Arizona
+My quick take is to vote yes on both Arizona measures but I haven't found other recommendations. [Ballotpedia](https://ballotpedia.org/Arizona_2020_ballot_measures)
+
+## Arkansas
+No quick take sorry. [Ballotpedia](https://ballotpedia.org/Arkansas_2020_ballot_measures) [2020 Arkansas Ballot Issues](https://www.uaex.edu/business-communities/voter-education/state-ballot-issues.aspx)
 
 ## California Ballot Propositions
 
@@ -108,3 +134,32 @@ GP recommended yes on all but the last 3 with reservations.
 | GG | ✅ | Real Property Transfer Tax
 | HH | ✅ | Utility Users’ Tax
 | II | ✅ | Paramedic, Fire Engines, and Ambulance Special Tax
+
+
+
+## Colorado
+
+| Abbreviation  | For |
+|----|-----|
+| LWV | [League of Women Voters of Colorado - PDF](https://s3.amazonaws.com/ClubExpressClubFiles/314195/documents/2020_Ballot_Issues_LWVCO_Positions_1541974178.pdf?AWSAccessKeyId=AKIA6MYUE6DNNNCCDT4J&Expires=1602056526&response-content-disposition=inline%3B%20filename%3D2020_Ballot_Issues_LWVCO_Positions.pdf&Signature=ly2W0vQYiel1nnyPO4llmfd83mE%3D)
+| PVG | [Progressive Voter's Guide](https://progressivevotersguide.com/colorado)
+| LVG | [Libertarian Voting GUide](https://lpedia.org/w/images/b/bc/CO_2020_Ballot_Issue_Positions.pdf)
+
+
+| #   | LWV| PVG | LVG | Description
+|---- |--- |--   | ----------- |
+| B   | ✅ | ✅  | 👎  | Repeal Property Tax Assessment Rates
+| C   | ❓ | ✅  | ✅  | Bingo Raffles Allow Paid Help and Repeal Five-Year Minimum
+| 76  | 👎 | 👎  | 👎  | Citizenship Qualification of Electors
+| 77  | ❓ | ✅  | ✅  | Local Voter Approval of Gaming Limits in Black Hawk, Central City, and Cripple Creek
+| EE  | ✅ | ✅  | 👎  | Cigarette, Tobacco and Nicotine Products Tax
+| 113 | ❓ | ✅  | 👎  | National Popular Vote  (TODO - check above this)
+| 114 | ❓ | ✅  | 👎  | Restoration of Grey Wolves
+| 115 | 👎 | 👎  | 👎  | Prohibition on Abortions Later in Pregnancy
+| 116 | 👎 | 👎  | ✅  | Decreases the state income tax rate from 4.63% to 4.55%
+| 117 | 👎 | 👎  | ✅  | Require Voter Approval of Certain New Enterprises Exempt from TABOR Initiative
+| 118 | ✅ | ✅  | 👎  | Establishes a program for paid medical and family leave
+
+
+## Florida
+I've only found the [League of Women Voter's recommendations](https://www.lwvfl.org/amendments-2020-2/). I disagree with them on #3 (I support the change) in principle but I don't know the Florida specifics. [Ballotpedia](https://ballotpedia.org/Florida_2020_ballot_measures)
