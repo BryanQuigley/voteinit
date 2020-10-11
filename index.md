@@ -2,19 +2,28 @@
 layout: page
 ---
 
-🗳️ A comparison of what different voting guides think of different propositions for the November 2020 US Election.  If I couldn't find any I sometimes tried to do my own Quick Take on the measures.
+🗳️ A comparison of what different voting guides think of different propositions for the November 2020 US Election.
+
+If you don't know how to answer a question - you can always leave them blank. Vote In It!
+
+| Abbreviation  | For (usually local chapter) |
+|---- |-----|
+| LWV | League of Women Voters
+| ACLU| American Civil Liberties Union
+| QT  | My quick take on the measure. If Progressives and Libertarians agree it makes sense.
+| Dem | Democratic voter recommendations
+| Prog| Progressive voter guide
+| Libt| Libertarian voter recommendaitons
+| QT  | If LWV + Prog + Libt agree should be a safe choice. Otherwise my quick take.
+| TODO| Haven't done a proper search yet.  [Please help!](https://github.com/BryanQuigley/voteinit/issues)
+| ❓  | Neutral / Unknown
+| 👎  | Vote No.
+| ✅  | Vote Yes.
 
 * TOC
 {:toc}
 
 ## Alabama
-
-
-| Abbreviation  | For |
-|----|-----|
-| LWV | [League of Women Voters of Alabama - PDF](https://lwval.org/takeaction/lwval-amendment-recommendations-2020.pdf)
-| ACLU | [ACLU of Alabama](https://www.aclualabama.org/en/2020vote)
-
 
 | #  | LWV| ACLU | Description
 |----|--- |--    | ----------- |
@@ -25,34 +34,22 @@ layout: page
 | 5 | 👎 | 👎   | Provides for a "stand your ground" law applicable to individuals in churches in Franklin county 
 | 6 | 👎 | 👎   | Administrative Provisions and City Attorney
 
-## Alaska
+[LWV of Alabama - PDF](https://lwval.org/takeaction/lwval-amendment-recommendations-2020.pdf) [ACLU of Alabama](https://www.aclualabama.org/en/2020vote)
+
+## Alaska - QT
 My quick take is to vote yes on both Alaska measures but I haven't found other recommendations.  [Ballotpedia](https://ballotpedia.org/Alaska_2020_ballot_measures)
 
-## Arizona
-My quick take is to vote yes on both Arizona measures but I haven't found other recommendations. [Ballotpedia](https://ballotpedia.org/Arizona_2020_ballot_measures)
+## Arizona - QT
+My quick take is to vote yes on both Arizona measures but I haven't found other recommendations. [Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Arizona)
 
-## Arkansas
+## Arkansas - TODO
 No quick take sorry. [Ballotpedia](https://ballotpedia.org/Arkansas_2020_ballot_measures) [2020 Arkansas Ballot Issues](https://www.uaex.edu/business-communities/voter-education/state-ballot-issues.aspx)
 
-## California Ballot Propositions
+## California Statewide - QT/LWV/LAT/Dem/Prog/Libt
 
-| Abbreviation  | For |
-|----|-----|
-| LWV | [League of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations) |
-| LAT | [LA Times](https://www.latimes.com/opinion/story/2020-09-09/la-times-endorsements-november-2020-election-trump-biden) | 
-| DVG | [California Democratic Party](https://cadehttps://ballotpedia.org/Kentucky_Constitutional_Amendment_1,_Marsy%27s_Law_Crime_Victims_Rights_Amendment_(2020)m.org/wp-content/uploads/2020/09/CDP-PropEnsorsements__Interactive.pdf)
-| PVG | [Progressive Voter's Guide](https://progressivevotersguide.com/california)  |
-| LVG | [Libertarians Voting Guide](https://ca.lp.org/voting-guide/) |
-| OV  | My opinionated vote recommendation. Generally I do if Progressives and Libertarians agree that is the right choice.
-| ❓  | Neutral / Unknown
-| 👎  | Vote No.
-| ✅  | Vote Yes.
-
-
-
-| #  | OV |LWV |LAT |DVG |PVG |LVG | Links             																				| Description |
+| #  | QT |LWV |LAT |Dem |Prog|Libt| Links             																				| Description |
 |----|--- |--  |--- |--- |--- |--- | ----------        																				| ----------- | 
-| 14 | ❓ | ❓ | ❓ | ✅ | ❓ | 👎 | [Official](https://voterguide.sos.ca.gov/quick-reference-guide/14.htm) [CalMatters](https://calmatters.org/election-2020-guide/proposition-14-stem-cell-research/) 	| CA funding stem cell research itself (was original response to now lapsed federal ban of stem cell research)  |
+| 14 | 👎 | ❓ | ❓ | ✅ | ❓ | 👎 | [Official](https://voterguide.sos.ca.gov/quick-reference-guide/14.htm) [CalMatters](https://calmatters.org/election-2020-guide/proposition-14-stem-cell-research/) 	| CA funding stem cell research itself (was original response to now lapsed federal ban of stem cell research)  |
 | 15 | ✅ | ✅ | ✅ | ✅ | ✅ | 👎 | [Official](https://voterguide.sos.ca.gov/quick-reference-guide/15.htm) [CalMatters](https://calmatters.org/election-2020-guide/proposition-15-property-tax-big-business/) | Taxing based on current market values for businesses.  |
 | 16 | ❓ | ✅ | ✅ | ✅ | ✅ | 👎 | [Official](https://voterguide.sos.ca.gov/quick-reference-guide/16.htm) [CalMatters](https://calmatters.org/election-2020-guide/proposition-16-affirmative-action/)	| Affirmative Action but not the quota system - no one appears sure what it would actually do. [Atlantic Article on Affirmative Action](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/)   |
 | 17 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | [Official](https://voterguide.sos.ca.gov/quick-reference-guide/17.htm) [CalMatters](https://calmatters.org/election-2020-guide/proposition-17-parole-vote/)| Restore voting rights after prison. |
@@ -66,24 +63,20 @@ No quick take sorry. [Ballotpedia](https://ballotpedia.org/Arkansas_2020_ballot_
 | 25 | ✅ | ✅ | ✅ | ✅ | ✅ | ?  | [Official](https://voterguide.sos.ca.gov/quick-reference-guide/25.htm) [CalMatters](https://calmatters.org/election-2020-guide/proposition-25-cash-bail/) 		| Replace Cash Bail with Risk Assessments Referendum [https://yesoncaprop25.com/](https://yesoncaprop25.com/)  | 
 
 
+[LWV California](https://lwvc.org/vote/elections/ballot-recommendations). [LA Times](https://www.latimes.com/opinion/story/2020-09-09/la-times-endorsements-november-2020-election-trump-biden).  [Libertarians Voting Guide](https://ca.lp.org/voting-guide/). [Progressive Voter's Guide](https://progressivevotersguide.com/california). [California Democratic Party - pdf](https://cademorg-media.s3.amazonaws.com/wp-content/uploads/2020/09/28204844/CDP-PropEnsorsements__Interactive.pdf).
+
 [Politico](https://www.politico.com/interactives/2020/california-november-ballot/) also has a nice explainer too.
 
-## California Local 
+## California Local  - LA County/Long Beach/San Francisco/Berkeley/Albany
 
-### Los Angeles County
+**Los Angeles County**
 Measure J - Overall: ✅ [PVG - ✅](https://progressivevotersguide.com/california/2020/general/city/losangeles#ca_ballotmeasure_countylosangeles) - 
 Vote Yes on Measure J to increase spending on housing and mental-health services while decreasing funding for law enforcement.
 
-### Long Beach 
+**Long Beach**
 Measure US - ✅ Raise taxes on Oil (and not by a lot from 15c to 30c a barrel). No one appears to be against it.
 
-### San Francisco
-
-| Abbreviation  | For |
-|----|-----|
-| LWV | [League of Women Voters of SF](https://lwvsf.org/ballot-recommendations) |
-| LPV | [League of Pissed Off Voters](http://www.theleaguesf.org/voter_guides) |
-| ISF | [Indivisible](https://indivisiblesf.org/nov-2020-ballot-prop-cheat-sheet)  |
+**San Francisco**
 
 
 | #  |LWV | LPV|  ISF | Description
@@ -101,18 +94,12 @@ Measure US - ✅ Raise taxes on Oil (and not by a lot from 15c to 30c a barrel).
 | K | ✅ | ✅ | ✅ |  Affordable Housing Authorization |
 | L | ❓ | ✅ | ✅ |  Business Tax Based on Comparison of Top Executive's Pay to Employees’ Pay |
 
-
-### Berkeley
-
-League of Women Voter's [guide on these](https://www.lwvbae.org/wp-content/uploads/2020/08/Berkeley-Measures-20-11.pdf).
-
-| Abbreviation  | For |
-|----|-----|
-|BDC | [Berkeley Democratic Club](http://www.berkeleydemocraticclub.info/) |
-|GP  | [Local Green Party - Berkeley/Albany](https://acgreens.wordpress.com/voter-guides/)
+[League of Women Voters of SF](https://lwvsf.org/ballot-recommendations). [League of Pissed Off Voters](http://www.theleaguesf.org/voter_guides). [Indivisible](https://indivisiblesf.org/nov-2020-ballot-prop-cheat-sheet).
 
 
-| #  | BDC| GP | Description
+**Berkeley**
+
+| #  | Dem| GP | Description
 |----|--- |--  | ----------- |
 | FF | ✅ | ✅ | Fire, Emergency Services and Wildfire Prevention Tax
 | GG | ✅ | ✅ | Tax on Transportation Network Company Trips
@@ -123,10 +110,9 @@ League of Women Voter's [guide on these](https://www.lwvbae.org/wp-content/uploa
 | LL | ✅ | ✅ | GANN Limit Spending Authority
 | MM | 👎 | ✅ | Rent Stabilization Ordinance
 
-### Albany
-League of Women Voter's does another awesome [non-partisan guide](https://www.lwvbae.org/wp-content/uploads/2020/08/Albany-Measures-20-11.pdf).
+[Berkeley Democratic Club](http://www.berkeleydemocraticclub.info/). [Local Green Party - Berkeley/Albany](https://acgreens.wordpress.com/voter-guides/).  [LWV's vote guide without recommendations](https://www.lwvbae.org/wp-content/uploads/2020/08/Berkeley-Measures-20-11.pdf).
 
-GP recommended yes on all but the last 3 with reservations.
+**Albany**
 
 | #  | GP | Description
 |----| --  | ----------- |
@@ -135,18 +121,13 @@ GP recommended yes on all but the last 3 with reservations.
 | HH | ✅ | Utility Users’ Tax
 | II | ✅ | Paramedic, Fire Engines, and Ambulance Special Tax
 
+Green Party recommended yes on all but the last 3 with reservations. [LWV's vote guide without recommendations](https://www.lwvbae.org/wp-content/uploads/2020/08/Albany-Measures-20-11.pdf).
 
 
-## Colorado
 
-| Abbreviation  | For |
-|----|-----|
-| LWV | [League of Women Voters of Colorado - PDF](https://s3.amazonaws.com/ClubExpressClubFiles/314195/documents/2020_Ballot_Issues_LWVCO_Positions_1541974178.pdf?AWSAccessKeyId=AKIA6MYUE6DNNNCCDT4J&Expires=1602056526&response-content-disposition=inline%3B%20filename%3D2020_Ballot_Issues_LWVCO_Positions.pdf&Signature=ly2W0vQYiel1nnyPO4llmfd83mE%3D)
-| PVG | [Progressive Voter's Guide](https://progressivevotersguide.com/colorado)
-| LVG | [Libertarian Voting GUide](https://lpedia.org/w/images/b/bc/CO_2020_Ballot_Issue_Positions.pdf)
+## Colorado - LWV/Prog/Libt
 
-
-| #   | LWV| PVG | LVG | Description
+| #   | LWV| Prog| Libt | Description
 |---- |--- |--   | ----------- |
 | B   | ✅ | ✅  | 👎  | Repeal Property Tax Assessment Rates
 | C   | ❓ | ✅  | ✅  | Bingo Raffles Allow Paid Help and Repeal Five-Year Minimum
@@ -160,31 +141,33 @@ GP recommended yes on all but the last 3 with reservations.
 | 117 | 👎 | 👎  | ✅  | Require Voter Approval of Certain New Enterprises Exempt from TABOR Initiative
 | 118 | ✅ | ✅  | 👎  | Establishes a program for paid medical and family leave
 
+[League of Women Voters of Colorado - PDF](https://s3.amazonaws.com/ClubExpressClubFiles/314195/documents/2020_Ballot_Issues_LWVCO_Positions_1541974178.pdf?AWSAccessKeyId=AKIA6MYUE6DNNNCCDT4J&Expires=1602056526&response-content-disposition=inline%3B%20filename%3D2020_Ballot_Issues_LWVCO_Positions.pdf&Signature=ly2W0vQYiel1nnyPO4llmfd83mE%3D). [Progressive Voter's Guide](https://progressivevotersguide.com/colorado). [Libertarian Voting GUide](https://lpedia.org/w/images/b/bc/CO_2020_Ballot_Issue_Positions.pdf).
 
-## Florida
-I've only found the [League of Women Voter's recommendations](https://www.lwvfl.org/amendments-2020-2/). I disagree with them on #3 (I support the change) in principle but I don't know the Florida specifics. [Ballotpedia](https://ballotpedia.org/Florida_2020_ballot_measures)
 
-## Georgia 
+## Florida - QT/LWV
+I've only found the [League of Women Voter's recommendations](https://www.lwvfl.org/amendments-2020-2/). I disagree with them on #3 (I support the change) in principle but I don't know the Florida specifics. [Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Florida)
+
+## Georgia - QT
 Can't find any opposition for any of the 3.   Seemed to pass with large bipartisan majorities.
-[Ballotpedia](https://ballotpedia.org/Georgia_2020_ballot_measures)
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Georgia)
 
-## Idaho
+## Idaho - QT
 Just one. Democrats appear to be against and Republicans are for it. 
 [Ballotpedia](https://ballotpedia.org/Idaho_Constitutional_Amendment_HJR4,_Require_35_Legislative_Districts_Amendment_(2020))
 
-## Illinois
+## Illinois - QT
 Just one. Democrats for it, Republican's against.
 [Ballotpedia](https://ballotpedia.org/Illinois_Allow_for_Graduated_Income_Tax_Amendment_(2020))
 
 
-## KentuckyLWV| PVG | LVG | Description
+## Kentucky - QT
 
  * Ammendment 1 - [ACLU Against](https://www.aclu-ky.org/en/marsyslaw). 👎  [Ballotpedia](https://ballotpedia.org/Kentucky_Constitutional_Amendment_1,_Marsy%27s_Law_Crime_Victims_Rights_Amendment_(2020))
  * Ammendment 2 - Longer terms for Judicial offices. ❓ [Ballotpedia](https://ballotpedia.org/Kentucky_Constitutional_Amendment_2,_Terms_of_Judicial_Offices_Amendment_(2020))
 
 
-## Louisiana
-Quick take only, I could not find any organizations with recommendations for all of them. [LWV's PDF - does not recommend how to vote](https://lwvofla.org/CBS_FILES/PAR_ConstAmend2020FINAL.pdf) [Ballotpedia](https://ballotpedia.org/Louisiana_2020_ballot_measures)
+## Louisiana - TODO
+I could not find any organizations with recommendations for all of them. [LWV's PDF - does not recommend how to vote](https://lwvofla.org/CBS_FILES/PAR_ConstAmend2020FINAL.pdf) [Ballotpedia](https://ballotpedia.org/Louisiana_2020_ballot_measures)
 
 
 | # | QT | Description
@@ -197,41 +180,40 @@ Quick take only, I could not find any organizations with recommendations for all
 | 6 | ❓ | Increases the income limit from $50,000 to $100,000 for those who qualify for the special assessment level for residential property receiving the homestead exemption 
 | 7 | ❓ | Creates the Unclaimed Property Permanent Trust Fund and allocates investment revenue to the general fund 
 
-## Maryland
-[Ballotpedia](https://ballotpedia.org/Maryland_2020_ballot_measures)
+## Maryland - QT
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Maryland)
 
  * Amendment 1 - Legislative Authority over State Budget Amendment - Democrats generally for, Republican's generally against. 
  * Amendment 2 - Sports Betting - No opposition
 
-## Massachusetts - Quick Take
+## Massachusetts - QT
 [Ballotpedia](https://ballotpedia.org/Massachusetts_2020_ballot_measures)
 
  * Question 1 - ✅✅ Concerns access to mechanical data in a vehicle's on-board diagnostics or telematics system 
  * Question 2 - ✅ Enacts a ranked-choice voting system for elections in Massachusetts 
 
-## Michigan - Quick Take
-[Ballotpedia](https://ballotpedia.org/Michigan_2020_ballot_measures). [Progressive Voter's Guide](https://progressivevotersguide.com/michigan) came to same as my QT.
+## Michigan - QT/PVG
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Michigan). [Progressive Voter's Guide](https://progressivevotersguide.com/michigan) came to same as my QT.
 
  * Use of State and Local Park Funds Amendment -  ❓❓
  * Search Warrant for Electronic Data Amendment - ✅✅
 
-## Mississippi - Quick Take
+## Mississippi - QT
 
  * Measure 1 - Marijuana - ✅✅
  * Measure 2 - Election changes - ✅✅
  * Measure 3 - Flag/Motto - 👎👎 - Switches from a discrimiatory flag against african americans to one [against non-Christians](https://ffrf.org/news/news-releases/item/37650-mississippi-s-new-flag-to-swap-one-divisive-symbol-for-another).
 
-## Missouri - Just Ballotpedia link
-[Ballotpedia](https://ballotpedia.org/Missouri_2020_ballot_measures)
+## Missouri - TODO
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Missouri)
 
-## Montana - Just Ballotpedia link
+## Montana - TODO
 [Ballotpedia](https://ballotpedia.org/Montana_2020_ballot_measures)
 
-
-## Nebraska - Just Ballotpedia link
+## Nebraska - TODO
 [Ballotpedia](https://ballotpedia.org/Nebraska_2020_ballot_measures)
 
-## Nevada - Quick Take
+## Nevada - QT
 [Ballotpedia](https://ballotpedia.org/Nevada_2020_ballot_measures) 
 
 
@@ -243,7 +225,7 @@ Quick take only, I could not find any organizations with recommendations for all
 | 4 | ✅ | Creates a constitutional right to certain voting procedures and policies 
 | 6 | ✅ | Requires utilities to acquire 50 percent of their electricity from renewable resources by 2030 
 
-## New Jersey - Quick Take
+## New Jersey - QT
 
 | # | QT | Description
 |-- |--- |  ----------- |
@@ -251,36 +233,38 @@ Quick take only, I could not find any organizations with recommendations for all
 | 2 | ✅ | Makes peacetime veterans eligible to receive the veterans' property tax deduction
 | 3 | ❓ |  Delays the state legislative redistricting process and use of new districts if census data is received after February 15 
 
-## New Mexico - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_New_Jersey)
+
+## New Mexico - TODO
 [Ballotpedia](https://ballotpedia.org/New_Mexico_2020_ballot_measures)
 
 
-## North Dakota - Just Ballotpedia link
+## North Dakota - TODO
 [Ballotpedia](https://ballotpedia.org/North_Dakota_2020_ballot_measures)
 
-## Oklahoma - Just Ballotpedia link
-[Ballotpedia](https://ballotpedia.org/Oklahoma_2020_ballot_measures)
+## Oklahoma - TODO
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Oklahoma)
 
-## Oregon - Just Ballotpedia link
-[Ballotpedia](https://ballotpedia.org/Oregon_2020_ballot_measures)
+## Oregon - TODO
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Oregon)
 
-## Rhode Island - Quick Take
+## Rhode Island - QT
 Yes, remove plantations from state name. [Ballotpedia](https://ballotpedia.org/Rhode_Island_2020_ballot_measures)
 
-## South Dakota - Quick Take
+## South Dakota - QT
 Legalize Marijuana. [Ballotpedia](https://ballotpedia.org/South_Dakota_2020_ballot_measures)
 
-## Utah - Just ballotpedia link
+## Utah - TODO
 [Ballotpedia](https://ballotpedia.org/Utah_2020_ballot_measures)
 
-## Virginia - Ballotpedia and PVG
-[Ballotpedia](https://ballotpedia.org/Virginia_2020_ballot_measures) [PVG](https://progressivevotersguide.com/virginia)
+## Virginia - PVG
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Virginia) [PVG](https://progressivevotersguide.com/virginia)
 
-## Washington - Just ballotpedia
-[Ballotpedia](https://ballotpedia.org/Washington_2020_ballot_measures)
+## Washington - TODO
+[Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Washington)
 
-## Wyoming - Quick Take
-A seems fine.
+## Wyoming - QT
+Measue A seems fine.
 
 
 
