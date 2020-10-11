@@ -2,9 +2,44 @@
 layout: page
 ---
 
-🗳️ A comparison of what different voting guides think of different propositions for the November 2020 US Election.
+🗳️ A comparison of voting recommendations from different groups on ballot measures for the November 2020 US Election.
 
-If you don't know how to answer a question - you can always leave them blank. Vote In It!
+If you don't know how to answer a question - you can always leave them blank. Vote In It! Please share!
+
+<style type="text/css">
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+</style>
+
+<ul class="share-buttons" data-source="simplesharingbuttons.com">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvoteinit.com%2F&quote=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="images/flat_web_icon_set/black/Facebook.png" /></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fvoteinit.com%2F&text=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures:%20https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Tweet"><img alt="Tweet" src="images/flat_web_icon_set/black/Twitter.png" /></a></li>
+  <li><a href="http://www.tumblr.com/share?v=3&u=https%3A%2F%2Fvoteinit.com%2F&quote=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures&s=" target="_blank" title="Post to Tumblr"><img alt="Post to Tumblr" src="images/flat_web_icon_set/black/Tumblr.png" /></a></li>
+  <li><a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fvoteinit.com%2F&description=A%20comparison%20of%20voting%20recommendations%20from%20different%20groups%20on%20ballot%20measures%20for%20the%20November%202020%20US%20Election." target="_blank" title="Pin it"><img alt="Pin it" src="images/flat_web_icon_set/black/Pinterest.png" /></a></li>
+  <li><a href="https://getpocket.com/save?url=https%3A%2F%2Fvoteinit.com%2F&title=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="images/flat_web_icon_set/black/Pocket.png" /></a></li>
+  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fvoteinit.com%2F&title=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures" target="_blank" title="Submit to Reddit"><img alt="Submit to Reddit" src="images/flat_web_icon_set/black/Reddit.png" /></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvoteinit.com%2F&title=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures&summary=A%20comparison%20of%20voting%20recommendations%20from%20different%20groups%20on%20ballot%20measures%20for%20the%20November%202020%20US%20Election.&source=https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="images/flat_web_icon_set/black/LinkedIn.png" /></a></li>
+  <li><a href="http://wordpress.com/press-this.php?u=https%3A%2F%2Fvoteinit.com%2F&quote=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures&s=A%20comparison%20of%20voting%20recommendations%20from%20different%20groups%20on%20ballot%20measures%20for%20the%20November%202020%20US%20Election." target="_blank" title="Publish on WordPress"><img alt="Publish on WordPress" src="images/flat_web_icon_set/black/Wordpress.png" /></a></li>
+  <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fvoteinit.com%2F&title=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures&description=A%20comparison%20of%20voting%20recommendations%20from%20different%20groups%20on%20ballot%20measures%20for%20the%20November%202020%20US%20Election." target="_blank" title="Save to Pinboard"><img alt="Save to Pinboard" src="images/flat_web_icon_set/black/Pinboard.png" /></a></li>
+  <li><a href="mailto:?subject=Vote%20In%20It%20-%20help%20to%20figure%20out%20ballot%20measures&body=A%20comparison%20of%20voting%20recommendations%20from%20different%20groups%20on%20ballot%20measures%20for%20the%20November%202020%20US%20Election.:%20https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Send email"><img alt="Send email" src="images/flat_web_icon_set/black/Email.png" /></a></li>
+</ul>
 
 | Abbreviation  | For (usually local chapter) |
 |---- |-----|
@@ -12,9 +47,9 @@ If you don't know how to answer a question - you can always leave them blank. Vo
 | ACLU| American Civil Liberties Union
 | QT  | My quick take on the measure. If Progressives and Libertarians agree it makes sense.
 | Dem | Democratic voter recommendations
-| Prog| Progressive voter guide
+| Prog| Progressive voter recommendations
 | Libt| Libertarian voter recommendaitons
-| QT  | If LWV + Prog + Libt agree should be a safe choice. Otherwise my quick take.
+| QT  | If LWV + Prog + Libt agree should be a safe choice. Otherwise my opinion as a quick take.
 | TODO| Haven't done a proper search yet.  [Please help!](https://github.com/BryanQuigley/voteinit/issues)
 | ❓  | Neutral / Unknown
 | 👎  | Vote No.
