@@ -2,7 +2,7 @@
 layout: page
 ---
 
-🗳️ A comparison of what different voting guides think of different propositions for the November 2020 US Election.
+🗳️ A comparison of what different voting guides think of different propositions for the November 2020 US Election.  If I couldn't find any I sometimes tried to do my own Quick Take on the measures.
 
 * TOC
 {:toc}
@@ -40,7 +40,7 @@ No quick take sorry. [Ballotpedia](https://ballotpedia.org/Arkansas_2020_ballot_
 |----|-----|
 | LWV | [League of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations) |
 | LAT | [LA Times](https://www.latimes.com/opinion/story/2020-09-09/la-times-endorsements-november-2020-election-trump-biden) | 
-| DVG | [California Democratic Party](https://cadem.org/wp-content/uploads/2020/09/CDP-PropEnsorsements__Interactive.pdf)
+| DVG | [California Democratic Party](https://cadehttps://ballotpedia.org/Kentucky_Constitutional_Amendment_1,_Marsy%27s_Law_Crime_Victims_Rights_Amendment_(2020)m.org/wp-content/uploads/2020/09/CDP-PropEnsorsements__Interactive.pdf)
 | PVG | [Progressive Voter's Guide](https://progressivevotersguide.com/california)  |
 | LVG | [Libertarians Voting Guide](https://ca.lp.org/voting-guide/) |
 | OV  | My opinionated vote recommendation. Generally I do if Progressives and Libertarians agree that is the right choice.
@@ -163,3 +163,133 @@ GP recommended yes on all but the last 3 with reservations.
 
 ## Florida
 I've only found the [League of Women Voter's recommendations](https://www.lwvfl.org/amendments-2020-2/). I disagree with them on #3 (I support the change) in principle but I don't know the Florida specifics. [Ballotpedia](https://ballotpedia.org/Florida_2020_ballot_measures)
+
+## Georgia 
+Can't find any opposition for any of the 3.   Seemed to pass with large bipartisan majorities.
+[Ballotpedia](https://ballotpedia.org/Georgia_2020_ballot_measures)
+
+## Idaho
+Just one. Democrats appear to be against and Republicans are for it. 
+[Ballotpedia](https://ballotpedia.org/Idaho_Constitutional_Amendment_HJR4,_Require_35_Legislative_Districts_Amendment_(2020))
+
+## Illinois
+Just one. Democrats for it, Republican's against.
+[Ballotpedia](https://ballotpedia.org/Illinois_Allow_for_Graduated_Income_Tax_Amendment_(2020))
+
+
+## KentuckyLWV| PVG | LVG | Description
+
+ * Ammendment 1 - [ACLU Against](https://www.aclu-ky.org/en/marsyslaw). 👎  [Ballotpedia](https://ballotpedia.org/Kentucky_Constitutional_Amendment_1,_Marsy%27s_Law_Crime_Victims_Rights_Amendment_(2020))
+ * Ammendment 2 - Longer terms for Judicial offices. ❓ [Ballotpedia](https://ballotpedia.org/Kentucky_Constitutional_Amendment_2,_Terms_of_Judicial_Offices_Amendment_(2020))
+
+
+## Louisiana
+Quick take only, I could not find any organizations with recommendations for all of them. [LWV's PDF - does not recommend how to vote](https://lwvofla.org/CBS_FILES/PAR_ConstAmend2020FINAL.pdf) [Ballotpedia](https://ballotpedia.org/Louisiana_2020_ballot_measures)
+
+
+| # | QT | Description
+|-- |--- |  ----------- |
+| 1 | 👎 | States that there is no right to abortion or abortion funding in the state constitution.
+| 2 | ✅ | Allows the presence or production of oil or gas to be taken into account when assessing the fair market value of an oil or gas well for ad valorem property tax purposes 
+| 3 | ✅ |Allows the Louisiana State Legislature, through a two-thirds vote in each chamber, to use up to one-third of the revenue in the Budget Stabilization Fund to cover the state's costs associated with a federally-declared disaster 
+| 4 | ❓ | Changes the state's expenditures limit growth formula 
+| 5 | ❓ | Authorizes a property tax exemption for property that is subject to an agreement with local government; allows certain property owners to make payments instead of paying property taxes 
+| 6 | ❓ | Increases the income limit from $50,000 to $100,000 for those who qualify for the special assessment level for residential property receiving the homestead exemption 
+| 7 | ❓ | Creates the Unclaimed Property Permanent Trust Fund and allocates investment revenue to the general fund 
+
+## Maryland
+[Ballotpedia](https://ballotpedia.org/Maryland_2020_ballot_measures)
+
+ * Amendment 1 - Legislative Authority over State Budget Amendment - Democrats generally for, Republican's generally against. 
+ * Amendment 2 - Sports Betting - No opposition
+
+## Massachusetts - Quick Take
+[Ballotpedia](https://ballotpedia.org/Massachusetts_2020_ballot_measures)
+
+ * Question 1 - ✅✅ Concerns access to mechanical data in a vehicle's on-board diagnostics or telematics system 
+ * Question 2 - ✅ Enacts a ranked-choice voting system for elections in Massachusetts 
+
+## Michigan - Quick Take
+[Ballotpedia](https://ballotpedia.org/Michigan_2020_ballot_measures). [Progressive Voter's Guide](https://progressivevotersguide.com/michigan) came to same as my QT.
+
+ * Use of State and Local Park Funds Amendment -  ❓❓
+ * Search Warrant for Electronic Data Amendment - ✅✅
+
+## Mississippi - Quick Take
+
+ * Measure 1 - Marijuana - ✅✅
+ * Measure 2 - Election changes - ✅✅
+ * Measure 3 - Flag/Motto - 👎👎 - Switches from a discrimiatory flag against african americans to one [against non-Christians](https://ffrf.org/news/news-releases/item/37650-mississippi-s-new-flag-to-swap-one-divisive-symbol-for-another).
+
+## Missouri - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/Missouri_2020_ballot_measures)
+
+## Montana - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/Montana_2020_ballot_measures)
+
+
+## Nebraska - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/Nebraska_2020_ballot_measures)
+
+## Nevada - Quick Take
+[Ballotpedia](https://ballotpedia.org/Nevada_2020_ballot_measures) 
+
+
+| # | QT | Description
+|-- |--- |  ----------- |
+| 1 | ❓ | Removes the constitutional status of the Board of Regents 
+| 2 | ✅ | Recognizes the marriage of couples regardless of gender
+| 3 | ✅ | Revises duties of the State Board of Pardons Commissioners
+| 4 | ✅ | Creates a constitutional right to certain voting procedures and policies 
+| 6 | ✅ | Requires utilities to acquire 50 percent of their electricity from renewable resources by 2030 
+
+## New Jersey - Quick Take
+
+| # | QT | Description
+|-- |--- |  ----------- |
+| 1 | ✅ | Legalizes the posession and use of marijuana
+| 2 | ✅ | Makes peacetime veterans eligible to receive the veterans' property tax deduction
+| 3 | ❓ |  Delays the state legislative redistricting process and use of new districts if census data is received after February 15 
+
+## New Mexico - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/New_Mexico_2020_ballot_measures)
+
+
+## North Dakota - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/North_Dakota_2020_ballot_measures)
+
+## Oklahoma - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/Oklahoma_2020_ballot_measures)
+
+## Oregon - Just Ballotpedia link
+[Ballotpedia](https://ballotpedia.org/Oregon_2020_ballot_measures)
+
+## Rhode Island - Quick Take
+Yes, remove plantations from state name. [Ballotpedia](https://ballotpedia.org/Rhode_Island_2020_ballot_measures)
+
+## South Dakota - Quick Take
+Legalize Marijuana. [Ballotpedia](https://ballotpedia.org/South_Dakota_2020_ballot_measures)
+
+## Utah - Just ballotpedia link
+[Ballotpedia](https://ballotpedia.org/Utah_2020_ballot_measures)
+
+## Virginia - Ballotpedia and PVG
+[Ballotpedia](https://ballotpedia.org/Virginia_2020_ballot_measures) [PVG](https://progressivevotersguide.com/virginia)
+
+## Washington - Just ballotpedia
+[Ballotpedia](https://ballotpedia.org/Washington_2020_ballot_measures)
+
+## Wyoming - Quick Take
+A seems fine.
+
+
+
+
+
+
+
+
+
+
+
+
