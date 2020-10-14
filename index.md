@@ -222,10 +222,9 @@ I could not find any organizations with recommendations for all of them. [LWV's 
  * Amendment 2 - Sports Betting - No opposition
 
 ## Massachusetts - QT
-[Ballotpedia](https://ballotpedia.org/Massachusetts_2020_ballot_measures)
 
- * Question 1 - ✅✅ Concerns access to mechanical data in a vehicle's on-board diagnostics or telematics system 
- * Question 2 - ✅ Enacts a ranked-choice voting system for elections in Massachusetts 
+ * Question 1 - ✅✅ Concerns access to mechanical data in a vehicle's on-board diagnostics or telematics system.  Auto parts companies and mechanics for it. Car companies against it. It could reveal car companies are not following best security practices. [Ballotpedia](https://ballotpedia.org/Massachusetts_Question_1,_%22Right_to_Repair_Law%22_Vehicle_Data_Access_Requirement_Initiative_(2020))
+ * Question 2 - ✅✅ Enacts a ranked-choice voting system for elections in Massachusetts. Democrats and Libertarian for it. Rupblican's against it. [Ballotpedia](https://ballotpedia.org/Massachusetts_Question_2,_Ranked-Choice_Voting_Initiative_(2020))
 
 ## Michigan - QT/PVG
 [Ballotpedia](https://ballotpedia.org/November_3,_2020_ballot_measures_in_Michigan). [Progressive Voter's Guide](https://progressivevotersguide.com/michigan) came to same as my QT.
