@@ -6,7 +6,7 @@
 title: Vote In It!
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The different ballot propositions and what varying organizations recommend you vote for.
+  2021 Governor Recall voting guide and recommendations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://voteinit.com"
 #twitter_username: jekyllrb
