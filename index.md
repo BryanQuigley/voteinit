@@ -16,25 +16,36 @@ title: 2022 California Primary Voting Guide
 
 # Los Angeles County
 
-| Office          | Sunrise Long Beach | Me  |
-| --------------- | ------------------ | --- |
-| City Prosecutor |                    |     |
-| Assessor        |                    |     |
-| Sheriff         |                    |     |
+| Office          | Me  |
+| --------------- | --- |
+| City Prosecutor |     |
+| Assessor        |     |
+| Sheriff         |     |
+
+- [Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 
 # Long Beach
 
-| Office          | Sunrise Long Beach | Me                                            |
-| --------------- | ------------------ | --------------------------------------------- |
-| Mayor           |                    |                                               |
-| City Prosecutor |                    | [George Moyer](https://moyerforlongbeach.com) |
-| City Attorney   |                    |                                               |
-| City Auditor    |                    |                                               |
-| Council D 1     |                    |                                               |
-| Council D 3     |                    |                                               |
-| Council D 5     |                    |                                               |
-| Council D 7     |                    |                                               |
-| Council D 9     |                    |                                               |
+| Office          | Me                                                                                          |
+| --------------- | ------------------------------------------------------------------------------------------- |
+| Mayor           |                                                                                             |
+| City Prosecutor | [George Moyer](https://moyerforlongbeach.com)                                               |
+| City Attorney   |                                                                                             |
+| City Auditor    | [Dan Miles](https://danmiles.org/)                                                          |
+| Council D 1     | [Lee Charley](https://www.leecharley.com) or [Steven Strada](https://www.stevenestrada.org) |
+| Council D 3     | [Mark Guillen](https://www.markguillenforlb3.com/)                                          |
+| Council D 5     | [Linda Valdez](https://lindaforcd5.com) or [Ian Patton](http://pattonforcouncil.com)        |
+| Council D 7     | [Carlos Ovalle](https://www.carlos4council.org/)                                            |
+| Council D 9     |                                                                                             |
+
+My preference is candidates who are aggressive on fighting climate change.
+
+Long Beach specific endorsements
+
+- [LBPost Compare your candidates](https://cyc.lbpost.com/) or [Election News](https://lbpost.com/elections)
+- [Long Beach Democratic Club](https://www.lbdemocrat.org/)
+- [Long Beach Police Officers Association](https://longbeachpoa.org/about/political-action)
+- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
 
 # Organizations
 
