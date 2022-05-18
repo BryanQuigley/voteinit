@@ -5,7 +5,36 @@ title: 2022 California Primary Voting Guide
 
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-This is a work in progress (and it won't be complete) but hopefully it helps you compare different groups and who they support. Please check the sources or candidate pages for more.
+I like comparing who different groups endorse. My hope is it helps others find it easier to vote.
+
+Please share with others!
+
+<ul class="share-buttons" data-source="simplesharingbuttons.com">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvoteinit.com%2F&quote=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="images/social_flat_rounded_rects_svg/Facebook.svg" /></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fvoteinit.com%2F&text=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F:%20https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Tweet"><img alt="Tweet" src="images/social_flat_rounded_rects_svg/Twitter.svg" /></a></li>
+  <li><a href="http://www.tumblr.com/share?v=3&u=https%3A%2F%2Fvoteinit.com%2F&quote=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F&s=" target="_blank" title="Post to Tumblr"><img alt="Post to Tumblr" src="images/social_flat_rounded_rects_svg/Tumblr.svg" /></a></li>
+  <li><a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fvoteinit.com%2F&description=Comparisons%20of%20voting%20guides%20or%20slates%2C%20as%20well%20as%20opinions%20on%20the%20top%20choices.%20%20Climate%20focused." target="_blank" title="Pin it"><img alt="Pin it" src="images/social_flat_rounded_rects_svg/Pinterest.svg" /></a></li>
+  <li><a href="https://getpocket.com/save?url=https%3A%2F%2Fvoteinit.com%2F&title=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="images/social_flat_rounded_rects_svg/Pocket.svg" /></a></li>
+  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fvoteinit.com%2F&title=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F" target="_blank" title="Submit to Reddit"><img alt="Submit to Reddit" src="images/social_flat_rounded_rects_svg/Reddit.svg" /></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvoteinit.com%2F&title=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F&summary=Comparisons%20of%20voting%20guides%20or%20slates%2C%20as%20well%20as%20opinions%20on%20the%20top%20choices.%20%20Climate%20focused.&source=https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="images/social_flat_rounded_rects_svg/LinkedIn.svg" /></a></li>
+  <li><a href="http://wordpress.com/press-this.php?u=https%3A%2F%2Fvoteinit.com%2F&quote=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F&s=Comparisons%20of%20voting%20guides%20or%20slates%2C%20as%20well%20as%20opinions%20on%20the%20top%20choices.%20%20Climate%20focused." target="_blank" title="Publish on WordPress"><img alt="Publish on WordPress" src="images/social_flat_rounded_rects_svg/Wordpress.svg" /></a></li>
+  <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fvoteinit.com%2F&title=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F&description=Comparisons%20of%20voting%20guides%20or%20slates%2C%20as%20well%20as%20opinions%20on%20the%20top%20choices.%20%20Climate%20focused." target="_blank" title="Save to Pinboard"><img alt="Save to Pinboard" src="images/social_flat_rounded_rects_svg/Pinboard.svg" /></a></li>
+  <li><a href="mailto:?subject=Need%20help%20choosing%20who%20to%20vote%20for%20in%20Califoria%202020%20primary%3F&body=Comparisons%20of%20voting%20guides%20or%20slates%2C%20as%20well%20as%20opinions%20on%20the%20top%20choices.%20%20Climate%20focused.:%20https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Send email"><img alt="Send email" src="images/social_flat_rounded_rects_svg/Email.svg" /></a></li>
+</ul>
+
+- TOC
+  {:toc}
+
+# Organizations
+
+- [**EV** - EnviroVoters](https://envirovoters.org/elections/2022-current-endorsements/)
+- [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com)
+- [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-june-primary-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
+- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
+- [LA County Federation of Labor Endorsements](https://thelafed.org/resource/2022-endorsements/)
+- [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-06)
+- [Solar Rights](https://solarrights.org/candidatequestionnaire/?emci=42aa50ef-d8d2-ec11-b656-281878b8c32f&emdi=c900dd9f-c3d6-ec11-b656-281878b8c32f&ceid=8493574)
+- [Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 
 # California
 
@@ -107,10 +136,12 @@ This is a work in progress (and it won't be complete) but hopefully it helps you
 | BOE D 4       | :(                         |
 | BOE D 6       | Marvin A. Rodríguez        |
 
-- [Los Angeles County Democratic party](https://www.lacdp.org/candidates)
-- [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-june-primary-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
-
 # Long Beach
+
+- [LBPost Compare your candidates](https://cyc.lbpost.com/) or [Election News](https://lbpost.com/elections)
+- [Long Beach Democratic Club](https://www.lbdemocrat.org/)
+- [Long Beach Police Officers Association](https://longbeachpoa.org/about/political-action)
+- SLB - Sunrise LB
 
 | Office          | KLAPVG           | SLB     | Me                                               |
 | --------------- | ---------------- | ------- | ------------------------------------------------ |
@@ -126,23 +157,6 @@ This is a work in progress (and it won't be complete) but hopefully it helps you
 | LBUSD A 1       | Nubia Flores     |         |                                                  |
 | LBUSD A 3       | Juan Benitez     |         |                                                  |
 | LBUSD A 5       | Diana Craighead  |         |                                                  |
-
-Long Beach specific endorsements
-
-- SLB - Sunrise LB
-- [LBPost Compare your candidates](https://cyc.lbpost.com/) or [Election News](https://lbpost.com/elections)
-- [Long Beach Democratic Club](https://www.lbdemocrat.org/)
-- [Long Beach Police Officers Association](https://longbeachpoa.org/about/political-action)
-- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
-
-# Organizations
-
-Still a work in progress to include their rankings above.
-
-- [EnviroVoters - EV](https://envirovoters.org/elections/2022-current-endorsements/)
-- [LA County Federation of Labor Endorsements](https://thelafed.org/resource/2022-endorsements/)
-- [ProgressiveVotersGuide - PVG](https://progressivevotersguide.com)
-- [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-06)
 
 Please share with others!
 
