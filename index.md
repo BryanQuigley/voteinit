@@ -5,43 +5,142 @@ title: 2022 California Primary Voting Guide
 
 <link rel="stylesheet" type="text/css" href="../style.css">
 
+This is a work in progress (and it won't be complete) but hopefully it helps you compare different groups and who they support. Please check the sources or candidate pages for more.
+
 # California
 
-| Office                 | EV                                       | PVG                                          |
-| ---------------------- | ---------------------------------------- | -------------------------------------------- |
-| Attorney General       | Bonta                                    | [Rob Bonta](https://robbonta.com/)           |
-| Secretary of State     |                                          | [Shirley Weber](https://drshirleyweber.com/) |
-| Controller             |                                          | [Malia Cohen](https://maliacohen.us/)        |
-| Insurance Commissioner | [Ricardo Lara](https://ricardolara.com/) |                                              |
+| Office                 | EV           | PVG                                          |
+| ---------------------- | ------------ | -------------------------------------------- |
+| Attorney General       | Bonta        | [Rob Bonta](https://robbonta.com/)           |
+| Secretary of State     |              | [Shirley Weber](https://drshirleyweber.com/) |
+| Controller             |              | [Malia Cohen](https://maliacohen.us/)        |
+| Insurance Commissioner | Ricardo Lara |                                              |
+
+# House of Representatives
+
+| Office | KLAPVG           | PVG            | EV  |
+| ------ | ---------------- | -------------- | --- |
+| 23     | Derek Marshall\* | Derek Marshall | ?   |
+| 26     | :(               |                |     |
+| 27     |                  |                |
+| 28     | Derek Marshall\* | Derek Marshall | ?   |
+| 29     | :(               |                |     |
+| 2      |                  |                |
+
+| Office | KLAPVG                | PVG              | EV               |
+| ------ | --------------------- | ---------------- | ---------------- |
+| 1      |                       |                  |                  |
+| 2      |                       |                  |                  |
+| 3      |                       |                  |                  |
+| 4      |                       |                  |                  |
+| 5      |                       |                  |                  |
+| 6      |                       |                  |
+| 7      |                       |                  |
+| 8      |                       |                  |
+| 9      |                       |                  |
+| 10     |                       |                  |
+| 11     |                       |                  |
+| 12     |                       |                  |
+| 13     |                       |                  |
+| 14     |                       |                  |
+| 15     |                       |                  |
+| 16     |                       |                  |
+| 17     |                       |                  |
+| 18     |                       |                  |
+| 19     |                       |                  |
+| 20     |                       |                  |
+| 21     |                       |                  |
+| 22     |                       |                  |
+| 23     | Derek Marshall\*      | Derek Marshall   |                  |
+| 24     |                       |                  |
+| 25     |                       |                  |
+| 26     | --                    | Julia Brownley   | Julia Brownley   |
+| 27     | Luevanos              | Christy Smith    |
+| 28     | DePaolis              | Judy Chu         | Judy Chu         |
+| 29     | Dueñas\*              | Tony Cardenas    |
+| 30     | Pudlo\*               | Adam Schiff      | Adam Schiff      |
+| 31     | --                    | Grace Napolitano | Grace Napolitano |
+| 32     | Shervin Aazami\*      | Shervin Aazami   | Brad Sherman     |
+| 33     |                       |                  | Pete Aguilar     |
+| 34     | David Kim\*           | David Kim        | Jimmy Gomez      |
+| 35     | --                    | Norma Torres     | Norma Torres     |
+| 36     | O’Brien               | Ted Lieu         | Ted Lieu         |
+| 37     | Daniel W. Lee\*       | Sydney Kamlager  | Sydney Kamlager  |
+| 38     | --                    | Linda Sanchez    | Linda Sanchez    |
+| 39     |                       |                  |
+| 40     |                       |                  |
+| 41     |                       |                  |
+| 42     | Flores or Summerville | ???              | Garcia x2 ??     |
+| 43     | --                    | Maxine Waters    | Maxine Waters    |
+| 44     | --                    |                  | Nanette Barragan |
+| 45     | --                    | Jay Chen         | --               |
+| 46     |                       |                  |
+| 47     |                       |                  |
+| 48     |                       |                  |
+| 49     |                       |                  |
+| 50     |                       |                  |
+| 51     |                       |                  |
+| 52     |                       |                  |
+| 53     |                       |                  |
+| 54     |                       |                  |
+| 55     |                       |                  |
 
 # Los Angeles County
 
-| Office          | Me  |
-| --------------- | --- |
-| City Prosecutor |     |
-| Assessor        |     |
-| Sheriff         |     |
+| Office        | KLAPVG                     | PVG        |
+| ------------- | -------------------------- | ---------- |
+| Mayor         | Gina Viola\*               | Karen Bass |
+| Attorney      | Faisal M. Gill             |
+| Accessor      | Jeffrey Prang              |
+| Controller    | Kenneth Mejia\*            |
+| Sheriff       | Eric Strong                |
+| Council D 1   | Eunisses Hernández\*       |
+| Council D 3   | :(                         |
+| Council D 5   | Katy Young Yaroslavsky     |
+| Council D 7   | Elisa Avalos               |
+| Council D 9   | Adriana Cabrera (write in) |
+| Council D 11  | Erin Darling\*             |
+| Council D 13  | Hugo Soto-Martinez\*       |
+| Council D 15  | Bryant Odega\*             |
+| Judge No. 003 | Tim Reuben                 |
+| Judge No. 060 | Anna Slotky Reitano\*      |
+| Judge No. 067 | Elizabeth Lashley-Haynes\* |
+| Judge No. 070 | Holly L. Hancock\*         |
+| Judge No. 090 | Kevin Thomas McGurk        |
+| Judge No. 116 | Lloyd E. Handler           |
+| Judge No. 118 | Carolyn “Jiyoung” Park\*   |
+| Judge No. 151 | Thomas D. Allison          |
+| Judge No. 156 | Albert Robles              |
+| Judge No. 118 | Carolyn “Jiyoung” Park\*   |
+| Judge No. 151 | Thomas D. Allison          |
+| Measure BB    | Yes                        |
+| BOE D 2       | Rocío Rivas                |
+| BOE D 4       | :(                         |
+| BOE D 6       | Marvin A. Rodríguez        |
 
 - [Los Angeles County Democratic party](https://www.lacdp.org/candidates)
+- [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-june-primary-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
 
 # Long Beach
 
-| Office          | Me                                                                                          |
-| --------------- | ------------------------------------------------------------------------------------------- |
-| Mayor           |                                                                                             |
-| City Prosecutor | [George Moyer](https://moyerforlongbeach.com)                                               |
-| City Attorney   |                                                                                             |
-| City Auditor    | [Dan Miles](https://danmiles.org/)                                                          |
-| Council D 1     | [Lee Charley](https://www.leecharley.com) or [Steven Strada](https://www.stevenestrada.org) |
-| Council D 3     | [Mark Guillen](https://www.markguillenforlb3.com/)                                          |
-| Council D 5     | [Linda Valdez](https://lindaforcd5.com) or [Ian Patton](http://pattonforcouncil.com)        |
-| Council D 7     | [Carlos Ovalle](https://www.carlos4council.org/)                                            |
-| Council D 9     |                                                                                             |
-
-My preference is candidates who are aggressive on fighting climate change.
+| Office          | KLAPVG           | SLB     | Me                                               |
+| --------------- | ---------------- | ------- | ------------------------------------------------ |
+| Mayor           | Raul Cedillo     |         | Raul Cedillo / Richardson                        |
+| City Prosecutor | Moyer\*          | Moyer   | George Moyer                                     |
+| City Attorney   | Gerrie Schipske  |         | Gerrie Schipske                                  |
+| City Auditor    | Dan Miles        |         | [Dan Miles](https://danmiles.org/)               |
+| Council D 1     | :(               | Estrada |                                                  |
+| Council D 3     | Kailee Caruso    |         | [Kailee Caruso](https://www.kaileecaruso.com/)   |
+| Council D 5     | Valdez           | Valdez  | [Linda Valdez](https://lindaforcd5.com) )        |
+| Council D 7     | Ovalle           | Ovalle  | [Carlos Ovalle](https://www.carlos4council.org/) |
+| Council D 9     | Joni Ricks-Oddie |         | **Joni Ricks-Oddie**                             |
+| LBUSD A 1       | Nubia Flores     |         |                                                  |
+| LBUSD A 3       | Juan Benitez     |         |                                                  |
+| LBUSD A 5       | Diana Craighead  |         |                                                  |
 
 Long Beach specific endorsements
 
+- SLB - Sunrise LB
 - [LBPost Compare your candidates](https://cyc.lbpost.com/) or [Election News](https://lbpost.com/elections)
 - [Long Beach Democratic Club](https://www.lbdemocrat.org/)
 - [Long Beach Police Officers Association](https://longbeachpoa.org/about/political-action)
