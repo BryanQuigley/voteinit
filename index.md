@@ -18,15 +18,6 @@ This is a work in progress (and it won't be complete) but hopefully it helps you
 
 # House of Representatives
 
-| Office | KLAPVG           | PVG            | EV  |
-| ------ | ---------------- | -------------- | --- |
-| 23     | Derek Marshall\* | Derek Marshall | ?   |
-| 26     | :(               |                |     |
-| 27     |                  |                |
-| 28     | Derek Marshall\* | Derek Marshall | ?   |
-| 29     | :(               |                |     |
-| 2      |                  |                |
-
 | Office | KLAPVG                | PVG              | EV               |
 | ------ | --------------------- | ---------------- | ---------------- |
 | 1      |                       |                  |                  |
@@ -34,9 +25,9 @@ This is a work in progress (and it won't be complete) but hopefully it helps you
 | 3      |                       |                  |                  |
 | 4      |                       |                  |                  |
 | 5      |                       |                  |                  |
-| 6      |                       |                  |
-| 7      |                       |                  |
-| 8      |                       |                  |
+| 6      |                       |                  |                  |
+| 7      |                       |                  |                  |
+| 8      |                       |                  |                  |
 | 9      |                       |                  |
 | 10     |                       |                  |
 | 11     |                       |                  |
@@ -82,8 +73,6 @@ This is a work in progress (and it won't be complete) but hopefully it helps you
 | 51     |                       |                  |
 | 52     |                       |                  |
 | 53     |                       |                  |
-| 54     |                       |                  |
-| 55     |                       |                  |
 
 # Los Angeles County
 
