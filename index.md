@@ -7,6 +7,8 @@ title: 2022 California Primary Voting Guide
 
 I like comparing who different groups endorse. My hope is it helps others find it easier to vote.
 
+Focused on Long Beach, LA Area - cause that's where I live - contributions welcome.
+
 Please share with others!
 
 <ul class="share-buttons" data-source="simplesharingbuttons.com">
@@ -27,6 +29,8 @@ Please share with others!
 
 # Organizations
 
+- [Voters Edge](https://votersedge.org) - Great site to track your specific ballot
+- [Ballotpedia California](https://ballotpedia.org/California_elections,_2022)
 - [**EV** - EnviroVoters](https://envirovoters.org/elections/2022-current-endorsements/)
 - [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com)
 - [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-june-primary-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
@@ -49,28 +53,6 @@ Please share with others!
 
 | Office | KLAPVG                | PVG              | EV               |
 | ------ | --------------------- | ---------------- | ---------------- |
-| 1      |                       |                  |                  |
-| 2      |                       |                  |                  |
-| 3      |                       |                  |                  |
-| 4      |                       |                  |                  |
-| 5      |                       |                  |                  |
-| 6      |                       |                  |                  |
-| 7      |                       |                  |                  |
-| 8      |                       |                  |                  |
-| 9      |                       |                  |
-| 10     |                       |                  |
-| 11     |                       |                  |
-| 12     |                       |                  |
-| 13     |                       |                  |
-| 14     |                       |                  |
-| 15     |                       |                  |
-| 16     |                       |                  |
-| 17     |                       |                  |
-| 18     |                       |                  |
-| 19     |                       |                  |
-| 20     |                       |                  |
-| 21     |                       |                  |
-| 22     |                       |                  |
 | 23     | Derek Marshall\*      | Derek Marshall   |                  |
 | 24     |                       |                  |
 | 25     |                       |                  |
@@ -94,47 +76,50 @@ Please share with others!
 | 43     | --                    | Maxine Waters    | Maxine Waters    |
 | 44     | --                    |                  | Nanette Barragan |
 | 45     | --                    | Jay Chen         | --               |
-| 46     |                       |                  |
-| 47     |                       |                  |
-| 48     |                       |                  |
-| 49     |                       |                  |
-| 50     |                       |                  |
-| 51     |                       |                  |
-| 52     |                       |                  |
-| 53     |                       |                  |
 
 # Los Angeles County
 
-| Office        | KLAPVG                     | PVG        |
-| ------------- | -------------------------- | ---------- |
-| Mayor         | Gina Viola\*               | Karen Bass |
-| Attorney      | Faisal M. Gill             |
-| Accessor      | Jeffrey Prang              |
-| Controller    | Kenneth Mejia\*            |
-| Sheriff       | Eric Strong                |
-| Council D 1   | Eunisses Hernández\*       |
-| Council D 3   | :(                         |
-| Council D 5   | Katy Young Yaroslavsky     |
-| Council D 7   | Elisa Avalos               |
-| Council D 9   | Adriana Cabrera (write in) |
-| Council D 11  | Erin Darling\*             |
-| Council D 13  | Hugo Soto-Martinez\*       |
-| Council D 15  | Bryant Odega\*             |
-| Judge No. 003 | Tim Reuben                 |
-| Judge No. 060 | Anna Slotky Reitano\*      |
-| Judge No. 067 | Elizabeth Lashley-Haynes\* |
-| Judge No. 070 | Holly L. Hancock\*         |
-| Judge No. 090 | Kevin Thomas McGurk        |
-| Judge No. 116 | Lloyd E. Handler           |
-| Judge No. 118 | Carolyn “Jiyoung” Park\*   |
-| Judge No. 151 | Thomas D. Allison          |
-| Judge No. 156 | Albert Robles              |
-| Judge No. 118 | Carolyn “Jiyoung” Park\*   |
-| Judge No. 151 | Thomas D. Allison          |
-| Measure BB    | Yes                        |
-| BOE D 2       | Rocío Rivas                |
-| BOE D 4       | :(                         |
-| BOE D 6       | Marvin A. Rodríguez        |
+| Office                    | KLAPVG                     | PVG         |
+| ------------------------- | -------------------------- | ----------- |
+| Accessor                  | Jeffrey Prang              |
+| Sheriff                   | Eric Strong                |
+| Judge No. 003             | Tim Reuben                 |
+| Judge No. 060             | Anna Slotky Reitano\*      |
+| Judge No. 067             | Elizabeth Lashley-Haynes\* |
+| Judge No. 070             | Holly L. Hancock\*         |
+| Judge No. 090             | Kevin Thomas McGurk        |
+| Judge No. 116             | Lloyd E. Handler           |
+| Judge No. 118             | Carolyn “Jiyoung” Park\*   |
+| Judge No. 151             | Thomas D. Allison          |
+| Judge No. 156             | Albert Robles              |
+| Judge No. 118             | Carolyn “Jiyoung” Park\*   |
+| Judge No. 151             | Thomas D. Allison          |
+| Board of Supervisors, D 3 |                            | Henry Stern |
+
+# LA USD
+
+| Office  | KLAPVG              |
+| ------- | ------------------- |
+| BOE D 2 | Rocío Rivas         |
+| BOE D 4 | :(                  |
+| BOE D 6 | Marvin A. Rodríguez |
+
+# Los Angeles City
+
+| Office       | KLAPVG                     | PVG                |
+| ------------ | -------------------------- | ------------------ |
+| Mayor        | Gina Viola\*               | Karen Bass         |
+| Attorney     | Faisal M. Gill             |
+| Controller   | Kenneth Mejia\*            |
+| Measure BB   | Yes                        |
+| Council D 1  | Eunisses Hernández\*       | Eunisses Hernandez |
+| Council D 3  | :(                         |
+| Council D 5  | Katy Young Yaroslavsky     |
+| Council D 7  | Elisa Avalos               |
+| Council D 9  | Adriana Cabrera (write in) |
+| Council D 11 | Erin Darling\*             | Erin Darling       |
+| Council D 13 | Hugo Soto-Martinez\*       |
+| Council D 15 | Bryant Odega\*             |
 
 # Long Beach
 
