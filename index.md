@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2022 California Primary Voting Guide
+title: 2022 California General Voting Guide for November
 ---
 
 <link rel="stylesheet" type="text/css" href="../style.css">
@@ -8,6 +8,8 @@ title: 2022 California Primary Voting Guide
 I like comparing who different groups endorse. My hope is it helps others find it easier to vote.
 
 Focused on Long Beach, LA Area - cause that's where I live - contributions welcome.
+
+Vote on or before November 8th 2022.
 
 Please share with others!
 
@@ -29,97 +31,122 @@ Please share with others!
 
 # Organizations
 
+## Updated for General Election
 - [Voters Edge](https://votersedge.org) - Great site to track your specific ballot
 - [Ballotpedia California](https://ballotpedia.org/California_elections,_2022)
-- [**EV** - EnviroVoters](https://envirovoters.org/elections/2022-current-endorsements/)
-- [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com)
-- [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-june-primary-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
-- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
+- [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-11)
+- [**EV** - EnviroVoters](https://www.envirovoters.org/2022-endorsements/)
+- [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-november-midterm-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
+- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements
 - [LA County Federation of Labor Endorsements](https://thelafed.org/resource/2022-endorsements/)
-- [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-06)
+- [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
+
+## Not updated for general (or not designed to be)
+- [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com) 
 - [Solar Rights](https://solarrights.org/candidatequestionnaire/?emci=42aa50ef-d8d2-ec11-b656-281878b8c32f&emdi=c900dd9f-c3d6-ec11-b656-281878b8c32f&ceid=8493574)
-- [Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 
-# California
 
-| Office                 | EV           | PVG                                          |
-| ---------------------- | ------------ | -------------------------------------------- |
-| Attorney General       | Bonta        | [Rob Bonta](https://robbonta.com/)           |
-| Secretary of State     |              | [Shirley Weber](https://drshirleyweber.com/) |
-| Controller             |              | [Malia Cohen](https://maliacohen.us/)        |
-| Insurance Commissioner | Ricardo Lara |                                              |
+# California Wide
+
+| Office                                | EV               | KLAPVG                                       | SierraClub  |
+| ----------------------                | ------------     | -------------------------------------------- | ----------- |
+| US Senate                             | Alex Padilla     | Alex Padilla                                 | Alex Padilla    |
+| Lt Governor                           | Eleni Kounalakis | --                                           |  Eleni Kounalakis       |
+| Secretary of State                    | Weber            | [Shirley Weber](https://drshirleyweber.com/) | Weber       |
+| Controller                            | Cohen            | [Malia Cohen](https://maliacohen.us/)        | Cohen            |
+| Treasurer                             | ---              | --                                           | ---              | 
+| Attorney General                      | Bonta            | [Rob Bonta](https://robbonta.com/)           | Bonta       |
+| Insurance Commissioner                | Ricardo Lara     | --                                           |   Ricardo Lara   |
+| Board of Equalization District 2      | Sally Lieber     | --                                           | --    |
+| Board of Equalization District 3      | --               | Tony Vazquez                                 | --    |
+| Superintendent of Public Instruction  | Tony Thurmond    | Tony Thurmond                                | Tony Thurmond    |
+
+
+# California Wide Ballot Measures
+| Office                                            | EV | KLAPVG | SierraClub | LACDP | SPUR |
+| ----------------------                            | ---| ------ | ---------- | ----- | ---  |
+| 1 - Constitutional Right to Reproductive Freedom  | Y  | Y      | Y          | Y     | **Y**    |
+| 26 - Tribal In-Person Sports Betting              | ?  | Y      | ?          | ?     | N    |
+| 27 - Corporate Online Sports Betting              | ?  | N      | ?          | N     | N    |
+| 28 - Arts & Music School Funding                  | ?  | Y      | ?          | Y     | N    |
+| 29 - Dialysis Regulation                          | ?  | Y      | ?          | Y     | N    |
+| 30 - Income Tax to Fund Electric Vehicles         | Y  | N      | ?          | Y     | Y    |
+| 31 - Ban on Flavored Tobacco                      | Y  | Y      | Y          | Y     | **Y**    |
+
+Usually I do "My Take" on these, but they lined up exactly with [SPUR](https://www.spur.org/voter-guide/2022-11).
 
 # House of Representatives
 
-| Office | KLAPVG                | PVG              | EV               |
+| Office | KLAPVG                | Siera Club        | EV              |
 | ------ | --------------------- | ---------------- | ---------------- |
-| 23     | Derek Marshall\*      | Derek Marshall   |                  |
-| 24     |                       |                  |
-| 25     |                       |                  |
+| 23     | Derek Marshall\*      |                  |                  |
+| 24     | n/a                   |                  | Salud Carbajal   |
+| 25     | n/a                   |                  | Raul Ruiz        |
 | 26     | --                    | Julia Brownley   | Julia Brownley   |
-| 27     | Luevanos              | Christy Smith    |
-| 28     | DePaolis              | Judy Chu         | Judy Chu         |
-| 29     | Dueñas\*              | Tony Cardenas    |
-| 30     | Pudlo\*               | Adam Schiff      | Adam Schiff      |
+| 27     | Christy Smith         | Christy Smith    | Christy Smith    |
+| 28     | Judy Chu              | Judy Chu         | Judy Chu         |
+| 29     | Angelica Dueñas       | Tony Cardenas    | Tony Cardenas    | 
+| 30     | Maebe A. Girl         | Adam Schiff      | Adam Schiff      |
 | 31     | --                    | Grace Napolitano | Grace Napolitano |
-| 32     | Shervin Aazami\*      | Shervin Aazami   | Brad Sherman     |
-| 33     |                       |                  | Pete Aguilar     |
-| 34     | David Kim\*           | David Kim        | Jimmy Gomez      |
-| 35     | --                    | Norma Torres     | Norma Torres     |
-| 36     | O’Brien               | Ted Lieu         | Ted Lieu         |
-| 37     | Daniel W. Lee\*       | Sydney Kamlager  | Sydney Kamlager  |
+| 32     | --                    | --               | Brad Sherman     |
+| 33     | n/a                   |                  | Pete Aguilar     |
+| 34     | David Kim\*           | Jimmy Gomez      | Jimmy Gomez      |
+| 35     | --                    | --               | Norma Torres     |
+| 36     | --                    | Ted Lieu         | Ted Lieu         |
+| 37     | --                    | --               | Sydney Kamlager  |
 | 38     | --                    | Linda Sanchez    | Linda Sanchez    |
-| 39     |                       |                  |
-| 40     |                       |                  |
-| 41     |                       |                  |
-| 42     | Flores or Summerville | ???              | Garcia x2 ??     |
+| 39     | n/a                   |                  | Mark Takano      |
+| 40     | n/a                   | Dr. Asif Mahmood | --               |
+| 41     | n/a                   | --               | Will Rollins     |
+| 42     | --                    | Robert Garcia    | Robert Garcia    |
 | 43     | --                    | Maxine Waters    | Maxine Waters    |
-| 44     | --                    |                  | Nanette Barragan |
-| 45     | --                    | Jay Chen         | --               |
+| 44     | Nanette Barragán      | Nanette Barragan | Nanette Barragan |
+| 45     | Jay Chen              | Jay Chen         | --               |
+| 46     | n/a                   | Lou Correa       | Lou Correa       |
+| 47     | n/a                   | Katie Porter     | Katie Porter     |
+| 48     | n/a                   | --               |  --              |
+| 49     | n/a                   | Mike Levin       | Mike Levin       |
+| 51     | n/a                   | --               | Sara Jacobs       |
+| 52     | n/a                   | --               | Juan Vargas       |
+
+
 
 # Los Angeles County
 
-| Office                    | KLAPVG                     | PVG         |
+| Office                    | KLAPVG                     | Sierra Club |
 | ------------------------- | -------------------------- | ----------- |
-| Accessor                  | Jeffrey Prang              |
-| Sheriff                   | Eric Strong                |
-| Judge No. 003             | Tim Reuben                 |
+| Sheriff                   | Robert Luna                |
 | Judge No. 060             | Anna Slotky Reitano\*      |
 | Judge No. 067             | Elizabeth Lashley-Haynes\* |
 | Judge No. 070             | Holly L. Hancock\*         |
-| Judge No. 090             | Kevin Thomas McGurk        |
-| Judge No. 116             | Lloyd E. Handler           |
+| Judge No. 090             | Melissa Lyons              |
 | Judge No. 118             | Carolyn “Jiyoung” Park\*   |
-| Judge No. 151             | Thomas D. Allison          |
-| Judge No. 156             | Albert Robles              |
-| Judge No. 118             | Carolyn “Jiyoung” Park\*   |
-| Judge No. 151             | Thomas D. Allison          |
-| Board of Supervisors, D 3 |                            | Henry Stern |
+| Judge No. 151             | Patrick Hare               |
+| Board of Supervisors, D 3 | Lindsey Horvath            | Lindsey Horvath |\
+| County of LA Measure A – Sheriff Oversight | Yes   |  
+| County of LA Measure C – Cannabis Tax | No   |  
 
 # LA USD
 
-| Office  | KLAPVG              |
-| ------- | ------------------- |
-| BOE D 2 | Rocío Rivas         |
-| BOE D 4 | :(                  |
-| BOE D 6 | Marvin A. Rodríguez |
+| Office  | KLAPVG              | Sierra Club  |
+| ------- | ------------------- | ----         |
+| BOE D 2 | Rocío Rivas         | Maria Brenes |
+| BOE D 4 | --                  | --           |
+| BOE D 6 | Marvin A. Rodríguez | Kelly Gonez  |
 
 # Los Angeles City
 
-| Office       | KLAPVG                     | PVG                |
-| ------------ | -------------------------- | ------------------ |
-| Mayor        | Gina Viola\*               | Karen Bass         |
-| Attorney     | Faisal M. Gill             |
-| Controller   | Kenneth Mejia\*            |
-| Measure BB   | Yes                        |
-| Council D 1  | Eunisses Hernández\*       | Eunisses Hernandez |
-| Council D 3  | :(                         |
-| Council D 5  | Katy Young Yaroslavsky     |
-| Council D 7  | Elisa Avalos               |
-| Council D 9  | Adriana Cabrera (write in) |
+| Office       | KLAPVG                     |  SierraClub  | 
+| ------------ | -------------------------- | ------------ |
+| Mayor        | NOT Rick Caruso            | Karen Bass   |
+| Attorney     | Faisal M. Gill             | Hydee Feldstein Soto | 
+| Controller   | Kenneth Mejia\*            | Paul Koretz  | 
+| Measure ULA  | Yes                        | Yes          |
+| Council D 5  | Katy Young Yaroslavsky     | Katy Young Yaroslavsky |
 | Council D 11 | Erin Darling\*             | Erin Darling       |
-| Council D 13 | Hugo Soto-Martinez\*       |
-| Council D 15 | Bryant Odega\*             |
+| Council D 13 | Hugo Soto-Martinez\*       | Mitch O’Farrell    |
+| Council D 15 | --                         | Tim McOsker        |
+
 
 # Long Beach
 
@@ -128,20 +155,20 @@ Please share with others!
 - [Long Beach Police Officers Association](https://longbeachpoa.org/about/political-action)
 - SLB - Sunrise LB
 
-| Office          | KLAPVG           | SLB     | Me                                               |
-| --------------- | ---------------- | ------- | ------------------------------------------------ |
-| Mayor           | Raul Cedillo     |         | Raul Cedillo / Richardson                        |
-| City Prosecutor | Moyer\*          | Moyer   | George Moyer                                     |
-| City Attorney   | Gerrie Schipske  |         | Gerrie Schipske                                  |
-| City Auditor    | Dan Miles        |         | [Dan Miles](https://danmiles.org/)               |
-| Council D 1     | :(               | Estrada |                                                  |
-| Council D 3     | Kailee Caruso    |         | [Kailee Caruso](https://www.kaileecaruso.com/)   |
-| Council D 5     | Valdez           | Valdez  | [Linda Valdez](https://lindaforcd5.com) )        |
-| Council D 7     | Ovalle           | Ovalle  | [Carlos Ovalle](https://www.carlos4council.org/) |
-| Council D 9     | Joni Ricks-Oddie |         | **Joni Ricks-Oddie**                             |
-| LBUSD A 1       | Nubia Flores     |         |                                                  |
-| LBUSD A 3       | Juan Benitez     |         |                                                  |
-| LBUSD A 5       | Diana Craighead  |         |                                                  |
+| Office                              | KLAPVG           | SieraClub      | Me                                               |
+| ---------------                     | ---------------- | -------        | ------------------------------------------------ |
+| Mayor                               | --               | Rex Richardson | Rex Richardson                        |
+| Council D 3                         | Kailee Caruso    |                | [Kailee Caruso](https://www.kaileecaruso.com/)   |
+| Council D 5                         | ---              | Ian Patton     |    |
+| Council D 9                         | Joni Ricks-Oddie |                | **Joni Ricks-Oddie**                             |
+| LBUSD A 1                           | Nubia Flores     |                |                                                  |
+| Measure LBC Admin/Date of elections |                  |                | Yes                          |
+| Measure E Police Oversight          |                  |                |    TODO                              |
+| Measure BB Consolidate Utilities    |                  |                |    TODO                              |
+| Measure LBU - LBUSD                 |                  |                |     TODO                             |
+| Measure Q Admin/Date of elections   |                  |                | Yes                                  |
+
+
 
 Please share with others!
 
