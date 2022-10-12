@@ -37,7 +37,7 @@ Please share with others!
 - [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-11)
 - [**EV** - EnviroVoters](https://www.envirovoters.org/2022-endorsements/)
 - [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-november-midterm-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
-- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements
+- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
 - [LA County Federation of Labor Endorsements](https://thelafed.org/resource/2022-endorsements/)
 - [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 
@@ -65,13 +65,13 @@ Please share with others!
 # California Wide Ballot Measures
 | Office                                            | EV | KLAPVG | SierraClub | LACDP | SPUR |
 | ----------------------                            | ---| ------ | ---------- | ----- | ---  |
-| 1 - Constitutional Right to Reproductive Freedom  | Y  | Y      | Y          | Y     | **Y**    |
+| 1 - Constitutional Right to Reproductive Freedom  | Y  | Y      | Y          | Y     | **Y** |
 | 26 - Tribal In-Person Sports Betting              | ?  | Y      | ?          | ?     | N    |
 | 27 - Corporate Online Sports Betting              | ?  | N      | ?          | N     | N    |
 | 28 - Arts & Music School Funding                  | ?  | Y      | ?          | Y     | N    |
 | 29 - Dialysis Regulation                          | ?  | Y      | ?          | Y     | N    |
 | 30 - Income Tax to Fund Electric Vehicles         | Y  | N      | ?          | Y     | Y    |
-| 31 - Ban on Flavored Tobacco                      | Y  | Y      | Y          | Y     | **Y**    |
+| 31 - Ban on Flavored Tobacco                      | Y  | Y      | Y          | Y     | **Y** |
 
 Usually I do "My Take" on these, but they lined up exactly with [SPUR](https://www.spur.org/voter-guide/2022-11).
 
