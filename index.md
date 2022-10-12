@@ -63,8 +63,9 @@ Please share with others!
 
 
 # California Wide Ballot Measures
-| Office                                            | EV | KLAPVG | SierraClub | LACDP | SPUR |
-| ----------------------                            | ---| ------ | ---------- | ----- | ---  |
+
+| Office                                            | EV  | KLAPVG | SierraClub | LACDP | SPUR |
+| ----------------------                            | --- | ------ | ---------- | ----- | ---  |
 | 1 - Constitutional Right to Reproductive Freedom  | Y  | Y      | Y          | Y     | **Y** |
 | 26 - Tribal In-Person Sports Betting              | ?  | Y      | ?          | ?     | N    |
 | 27 - Corporate Online Sports Betting              | ?  | N      | ?          | N     | N    |
