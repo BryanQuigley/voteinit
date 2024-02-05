@@ -7,7 +7,7 @@ title: 2024 California Voting Guides index for November
 
 I like comparing who different groups endorse. My hope is it helps others find it easier to vote.
 
-## Updated for 2024 March Primary
+## Organizations (some endorsing) for the 2024 March Primary
 - [Ballotpedia California](https://ballotpedia.org/California_elections,_2024) - Great impartial site going through all the items on your ballot.
 - [**EV** - EnviroVoters](https://www.envirovoters.org/2024-endorsements/)
 - [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com) 
@@ -21,8 +21,9 @@ I like comparing who different groups endorse. My hope is it helps others find i
 
 * Prop 1 - Mental Health Care and Addiction Treatment Reform & Bonds to Build Places for Treatment and Supportive Housing.  [LWV against.](https://lwvc.org/ballot-measure/prop-1-2024/no-on-prop-1/).
 
-* US Senate - still researchingq
-
+* US Senate
+  PVG - says pick your favorite between Barbara Lee, Katie Porter, and Adam Schiff that all are good choices.
+  I haven't found anyone to actually endorse one over the others.
 
 ## Local
 
@@ -34,21 +35,24 @@ I like comparing who different groups endorse. My hope is it helps others find i
 | LA County District Attorney | George Gascon    |  NR             |  NR     | [George Gascon](https://ballotpedia.org/George_Gasc%C3%B3n)     |
 | LA County Board of Supervisors Dist 4  |  NR      |  Janice Hahn             |   NR   |  Janice Hahn    |
 
+Long Beach Measure RW - TBD
 
-## Still researching:
+## Superior Court of Los Angeles County
 
-Superior Court of Los Angeles County (Office No. 12)
-Superior Court of Los Angeles County (Office No. 39)
-Superior Court of Los Angeles County (Office No. 48)
-Superior Court of Los Angeles County (Office No. 93)
-Superior Court of Los Angeles County (Office No. 97)
-Superior Court of Los Angeles County (Office No. 115)
-Superior Court of Los Angeles County (Office No. 130)
-Superior Court of Los Angeles County (Office No. 135)
-Superior Court of Los Angeles County (Office No. 137)
-Long Beach Measure RW
+Also see, [Bar association ratings](https://lacba.org/?pg=judicial-elections-evaluation)
 
-
+| No.| PVG                    | LABOR       |   Democrats  | Bar Rating  |
+| ---| -------------------    | ----------  | ----------   | ----------   |     
+| 12 | NR                     | NR          | NR         | Only Lynn D. Olson is rated Well Qualified | 
+| 39 | George A. Turner Jr.   | Turner      | Turner      | Turner is 1 of 3 rated Qualified | 
+| 48 | Ericka Wiley           | Wiley       | Wiley        | All qualified, but Renee Rose is Well Qualified | 
+| 93 | NR                     | NR          | Victor Avila |  No Ratings :(   |
+| 97 | La Shae Henderson      | Sharon Ransom  |  Ransom     |   Ransom - Well Qualified, Henderson -Qualified, Abourched - Well Qualified | 
+| 115 | NR                    | Christmas Brookens  |  Brookens |  Both Well Qualified | 
+| 130 | NR                    | Christopher Darden |  Leslie Gutierrez | Both listed left Well Qualified | 
+| 135 | NR                    | Steven Yee Mac    | Georgia Huerta |  Both listed left Well Qualified | 
+| 137 | NR                    |  Luz E. Herrera   | Tracy Blount | Blount - Well Qualified, Herrera - Qualified, Berg - Qualifed | 
+ 
 
 
 
@@ -64,9 +68,6 @@ Long Beach Measure RW
   <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fvoteinit.com%2F&title=VoteInIt!&description=Need%20help%20choosing%20who%20to%20vote%20for%20in%202024%20election%3F" target="_blank" title="Save to Pinboard"><img alt="Save to Pinboard" src="images/social_flat_rounded_rects_svg/Pinboard.svg" /></a></li>
   <li><a href="mailto:?subject=VoteInIt!&body=Need%20help%20choosing%20who%20to%20vote%20for%20in%202024%20election%3F:%20https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Send email"><img alt="Send email" src="images/social_flat_rounded_rects_svg/Email.svg" /></a></li>
 </ul>
-
-- TOC
-  {:toc}
 
 ## Not updated yet:
 - [Voters Edge](https://votersedge.org) - Great site to track your specific ballot
