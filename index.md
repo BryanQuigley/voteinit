@@ -14,7 +14,7 @@ I like comparing who different groups endorse. My hope is it helps others find i
 - [**LABOR** LA County Federation of Labor Endorsements](https://thelafed.org/resource/la-county-federation-of-labor-endorsements/)
 - [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 - [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
-- [BlueVoterGuide](https://bluevoterguide.org/) - Democratic leaning but also lists other groups endoresements.
+- [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2024/)
 
 
 ## State Wide
@@ -22,20 +22,21 @@ I like comparing who different groups endorse. My hope is it helps others find i
 * Prop 1 - Mental Health Care and Addiction Treatment Reform & Bonds to Build Places for Treatment and Supportive Housing.  [LWV against.](https://lwvc.org/ballot-measure/prop-1-2024/no-on-prop-1/).
 
 * US Senate
-  PVG - says pick your favorite between Barbara Lee, Katie Porter, and Adam Schiff that all are good choices.
-  I haven't found anyone to actually endorse one over the others.
+  PVG - says pick your favorite between [Barbara Lee](https://ballotpedia.org/Barbara_Lee_(California)), [Katie Porter](https://ballotpedia.org/Katie_Porter), and [Adam Schiff](https://ballotpedia.org/Adam_Schiff) that all are good choices.
+  I haven't found anyone to actually endorse one over the others. [CalMatters](https://calmatters.org/california-voter-guide-2024/us-senate/) [2](https://calmatters.org/politics/2024/01/us-senate-california-candidates/)
 
 ## Local
 
 | Office                   | PVG                | Siera Club     | EV              | Labor              |
 | ------------------------ | -------------------| ---------------| --------------- | ---------------- |
-| US House District 42     | Robert Garcia      | Robert Garcia  |   NR              | [Robert Garcia](https://ballotpedia.org/Robert_Garcia_(California))    |
-| CA State Senate Dist 33  | Lena Gonzalez      |  Lena Gonzalez | Lena Gonzalez   | [Lena Gonzalez](https://ballotpedia.org/Lena_Gonzalez)     |
-| CA State Assembly Dist 69 | Josh Lowenthal    |  NR             | Josh Lowenthal    | [Josh Lowenthal](https://ballotpedia.org/Lena_Gonzalez)     |
-| LA County District Attorney | George Gascon    |  NR             |  NR     | [George Gascon](https://ballotpedia.org/George_Gasc%C3%B3n)     |
-| LA County Board of Supervisors Dist 4  |  NR      |  Janice Hahn             |   NR   |  Janice Hahn    |
+| US House District 42     | Garcia             |  Garcia        |   NR              | [Robert Garcia](https://ballotpedia.org/Robert_Garcia_(California))    |
+| CA State Senate Dist 33  | Gonzalez           |       Gonzalez |    Gonzalez   | [Lena Gonzalez](https://ballotpedia.org/Lena_Gonzalez)     |
+| CA State Assembly Dist 69 | Lowenthal    |  NR             | Lowenthal    | [Josh Lowenthal](https://ballotpedia.org/Lena_Gonzalez)     |
+| LA County District Attorney | Gascon    |  NR             |  NR     | [George Gascon](https://ballotpedia.org/George_Gasc%C3%B3n)     |
+| LA County Board of Supervisors Dist 4  |  NR      |  Hahn             |   NR   |  [Janice Hahn](https://ballotpedia.org/Janice_Hahn)    |
 
-Long Beach Measure RW - TBD
+Long Beach Measure RW - Hotel Worker Minimum Wage [Long Beach site](https://www.longbeach.gov/cityclerk/elections/hotel-worker-minimum-wage/) (as in voter booklet).
+
 
 ## Superior Court of Los Angeles County
 
