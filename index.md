@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 2024 California Voting Guides index for November
+title: 2024 March Primary
 ---
 
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 I like comparing who different groups endorse. My hope is it helps others find it easier to vote.
 
-## Organizations (some endorsing) for the 2024 March Primary
+## Organizations (some endorsing) for current election
 - [Ballotpedia California](https://ballotpedia.org/California_elections,_2024) - Great impartial site going through all the items on your ballot.
 - [**EV** - EnviroVoters](https://www.envirovoters.org/2024-endorsements/)
 - [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com) 
@@ -15,6 +15,7 @@ I like comparing who different groups endorse. My hope is it helps others find i
 - [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 - [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
 - [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2024/)
+- [BlueVotersGuide](https://bluevoterguide.org) - endorsements include ones from previous elections. Can be confusing. Democratic.
 
 
 ## State Wide
@@ -27,13 +28,13 @@ I like comparing who different groups endorse. My hope is it helps others find i
 
 ## Local
 
-| Office                   | PVG                | Siera Club     | EV              | Labor              |
-| ------------------------ | -------------------| ---------------| --------------- | ---------------- |
-| US House District 42     | Garcia             |  Garcia        |   NR              | [Robert Garcia](https://ballotpedia.org/Robert_Garcia_(California))    |
+| Office                   | PVG                | Siera Club     | EV              | Labor            |  Alternatives | 
+| ------------------------ | -------------------| ---------------| --------------- | ---------------- |  -------------------  |
+| US House District 42     | Garcia             |  Garcia        |   NR              | [Robert Garcia](https://ballotpedia.org/Robert_Garcia_(California))    |  [Nicole López](https://ballotpedia.org/Nicole_L%C3%B3pez) |
 | CA State Senate Dist 33  | Gonzalez           |       Gonzalez |    Gonzalez   | [Lena Gonzalez](https://ballotpedia.org/Lena_Gonzalez)     |
-| CA State Assembly Dist 69 | Lowenthal    |  NR             | Lowenthal    | [Josh Lowenthal](https://ballotpedia.org/Lena_Gonzalez)     |
-| LA County District Attorney | Gascon    |  NR             |  NR     | [George Gascon](https://ballotpedia.org/George_Gasc%C3%B3n)     |
-| LA County Board of Supervisors Dist 4  |  NR      |  Hahn             |   NR   |  [Janice Hahn](https://ballotpedia.org/Janice_Hahn)    |
+| CA State Assembly Dist 69 | Lowenthal    |  NR             | Lowenthal    | [Josh Lowenthal](https://ballotpedia.org/Josh_Lowenthal)     |
+| LA County District Attorney | Gascon    |  NR             |  NR     | [George Gascon](https://ballotpedia.org/George_Gasc%C3%B3n)     | [Jeff Chemerinsky](https://ballotpedia.org/Jeff_Chemerinsky)  [Eric Siddall](https://ballotpedia.org/Eric_Siddall)
+| LA County Board of Supervisors Dist 4  |  NR      |  Hahn             |   NR   |  [Janice Hahn](https://ballotpedia.org/Janice_Hahn)    | 
 
 Long Beach Measure RW - Hotel Worker Minimum Wage [Long Beach site](https://www.longbeach.gov/cityclerk/elections/hotel-worker-minimum-wage/) (as in voter booklet).
 
@@ -42,14 +43,15 @@ Long Beach Measure RW - Hotel Worker Minimum Wage [Long Beach site](https://www.
 
 Also see, [Bar association ratings](https://lacba.org/?pg=judicial-elections-evaluation)
 
-| No.| PVG                    | LABOR       |   Democrats  | Bar Rating  |
-| ---| -------------------    | ----------  | ----------   | ----------   |     
+| No.| PVG                    | LABOR       |   Democrats  | Bar Rating  | Me | 
+| ---| -------------------    | ----------  | ----------   | ----------   | --------- |
 | 12 | NR                     | NR          | NR         | Only Lynn D. Olson is rated Well Qualified | 
 | 39 | George A. Turner Jr.   | Turner      | Turner      | Turner is 1 of 3 rated Qualified | 
 | 48 | Ericka Wiley           | Wiley       | Wiley        | All qualified, but Renee Rose is Well Qualified | 
-| 93 | NR                     | NR          | Victor Avila |  No Ratings :(   |
+| 93 | NR                     | NR          | Victor Avila |  Running unopposed   |   |
 | 97 | La Shae Henderson      | Sharon Ransom  |  Ransom     |   Ransom - Well Qualified, Henderson -Qualified, Abourched - Well Qualified | 
 | 115 | NR                    | Christmas Brookens  |  Brookens |  Both Well Qualified | 
+| 124 | NR                    | NR                  |  NR                | Neither Qualified | [Kimberly_Repecka](https://ballotpedia.org/Kimberly_Repecka) has information on Ballotpedia 
 | 130 | NR                    | Christopher Darden |  Leslie Gutierrez | Both listed left Well Qualified | 
 | 135 | NR                    | Steven Yee Mac    | Georgia Huerta |  Both listed left Well Qualified | 
 | 137 | NR                    |  Luz E. Herrera   | Tracy Blount | Blount - Well Qualified, Herrera - Qualified, Berg - Qualifed | 
@@ -70,7 +72,8 @@ Also see, [Bar association ratings](https://lacba.org/?pg=judicial-elections-eva
   <li><a href="mailto:?subject=VoteInIt!&body=Need%20help%20choosing%20who%20to%20vote%20for%20in%202024%20election%3F:%20https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Send email"><img alt="Send email" src="images/social_flat_rounded_rects_svg/Email.svg" /></a></li>
 </ul>
 
-## Not updated yet:
+## Other sites / some may not be updated yet:
 - [Voters Edge](https://votersedge.org) - Great site to track your specific ballot
 - [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-11)
 - [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-november-midterm-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
+
