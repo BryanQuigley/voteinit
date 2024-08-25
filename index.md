@@ -14,32 +14,31 @@ I like comparing who different groups endorse. My hope is it helps others find i
 *Organizaions*
 
 - [Ballotpedia](https://ballotpedia.org/) - Great impartial site
+- [Senate Climate Scorecard](https://voteclimatepac.org/senate-scorecard/)
 
 These generally have the most public information about them, but here we go anyway. I'm ignoring a couple races.
 
-| Office               | Recommendation               | Notable Endorsements         |  
-| -------------------- | ---------------------------  | ---------------------------  |
-| U.S PRESIDENT        | [Kamala Harris](https://kamalaharris.com/)    | [Obligatory XKCD](https://xkcd.com/2962/)         |
-| Arizona           |
-| Florida           |
-| Indiana           |
-| Maine           |
-| Michigan           |
-| Minnesota           |
-| Mississippi           |
-| Missouri           |
-| Montana           |
-| Nebraska           | [Dan Osborn (I)](https://osbornforsenate.com/)               |          |  
-| Nevada           |
-| New Mexico           |
-| North Dakota           |
-| Ohio           |
-| Pennsylvania           |
-| Tennessee           |
-| Texas           |
-| West Virginia           |
-| Wisconsin           |
-| Wyoming |
+| Office        | Recommendation               | Notable Endorsements / Notes |  
+| ------------- | ---------------------------  | ---------------------------  |
+| U.S PRESIDENT | [Kamala Harris](https://kamalaharris.com/)    | [Obligatory XKCD](https://xkcd.com/2962/)         |
+| Arizona       | [Ruben Gallego](https://gallegoforarizona.com/) |
+| Florida       | [Debbie Mucarsel-Powell](https://www.debbieforflorida.com/endorsements/) |
+| Indiana       | [Valerie McCray](https://valeriemccray.org)  |
+| Maine         | [Angus King](https://angusformaine.com)
+| Michigan      | [Elissas Lotkin](https://elissaslotkin.org/) |
+| Mississippi   | [Ty Pinkins](https://www.typinkins.com) | [He is literally running through the state, that's just awesome](https://www.youtube.com/watch?v=wog9Z3RwSpQ&t=101s) |
+| Montana       | [Jon Tester](https://jontester.com/)  |
+| Nebraska      | [Dan Osborn (I)](https://osbornforsenate.com/)               |          |  
+| Nevada        | [Jacky Rosen](https://www.rosenfornevada.com/) |
+| New Mexico    | [Martin Heinrich](https://martinheinrich.com)  |
+| North Dakota  | [Katrina Christiansen](https://www.katrinaforussenate.com) | 
+| Ohio          | [Sherrod Brown](https://www.sherrodbrown.com/) |
+| Pennsylvania  | [Bob Casey Jr.](https://bobcasey.com/)   |  
+| Tennessee     | [Gloria Johnson](https://www.votegloriajohnson.com) |
+| Texas         | [Colinall Red](https://colinallred.com/) |
+| West Virginia | [Glenn Elliott](https://elliottforwv.com) | [Only candidate who answered CC](https://ballotpedia.org/Glenn_Elliott#Campaign_themes) |
+| Wisconsin     | [Tammy Baldwin](https://www.tammybaldwin.com/) |
+| Wyoming | [Scott Morrow](https://morrowforwyoming.com/) | 
 
 
 ## California Wide
@@ -50,20 +49,29 @@ These generally have the most public information about them, but here we go anyw
 - [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
 - [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2024/)
 - [BlueVotersGuide](https://bluevoterguide.org) - endorsements include ones from previous elections. Can be confusing. Democratic.
-
-- PROP 2 - Borrow $10 billion in bonds for schools. No, see Borrow note.
-- PROP 3 - Continues Allowing Gay marriage - Yes 
-- PROP 4 - Borrow $10 for parks and environmental protection projects. No, see Borrow note.  
-- PROP 5 - Lower voter approval requirements for local housing and infrastructure bonds. No, only permission to borrow not increase taxes.
-- PROP 6 - Limit forced labor in state prisons. Yes.
-- PROP 32 - Raise the state minimum wage to $18 an hour. Yes.
-- PROP 33 - Allow local governments to impose rent controls. Yes.
-- PROP 34 - WTF. This is weird.
-- PROP 35 - 
-- PROP 36 -
-- PROP 37 - 
+- [LWVC Ballot recomendations for Props](https://lwvc.org/ballot-recommendations/)
 
 
+| Prop | Description                                                           | My Recommendation | Further reading |
+|------|-----------------------------------------------------------------------|-------------------|------------------|
+| 2 | Borrow $10 billion in bonds for schools. | No, see [Borrow note](#borrow-note). | [CalMatters](https://calmatters.org/california-voter-guide-2024/propositions/#prop-2) |
+| 3 | Continues Allowing Gay marriage | Yes | [LWV](https://lwvc.org/ballot-measure/recommendation-prop-3/) |
+| 4 | Borrow $10 for parks and environmental protection projects. | No, see [Borrow note](#borrow-note) |  [CalMatters](https://calmatters.org/california-voter-guide-2024/propositions/prop-4-climate-bond/#h-why-is-it-on-the-ballot) |
+| 5 | Lower voter approval requirements for local housing and infrastructure bonds. | No, only permission to borrow not increase taxes. | [CalMatters](https://calmatters.org/california-voter-guide-2024/propositions/#prop-5) |
+| 6 | Limit forced labor in state prisons. | Yes | [LWV](https://lwvc.org/ballot-measure/recommendation-prop-6/) |
+|32| Raise the state minimum wage to $18 an hour | Yes | [LWV](https://lwvc.org/ballot-measure/recommendation-prop-32/) |
+|33| Allow local governments to impose rent controls | Yes | [CalMatters](https://calmatters.org/california-voter-guide-2024/propositions/prop-33-rent-control/)                 |
+|34| WTF. I have no words | No | [CalMatters](https://calmatters.org/california-voter-guide-2024/propositions/prop-34-patient-spending/) |
+|35| Set tax policy for medi-cal | Soft No | [LWV](https://lwvc.org/ballot-measure/recommendation-prop-35/) |
+|36| Let's go back to the war on drugs | Strong NO  | [LWV](https://lwvc.org/ballot-measure/recommendation-prop-36/) |                                    
+
+
+### Borrow Note 
+
+California needs to get a better handle on our budget and pushing it to the voters does not help that.
+Both props are raising a cool $10 Billion, costing $400 million a year over the next 40 years ($16 billion total).
+
+I'd much rather have $800 million go directly to truly shovel ready climate/schools projects every year instead of having some of it go to paying interest. I'd also strongly support taxing fossil fuels to pay for climate change improvements.
 
 ## Local
 
