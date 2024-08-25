@@ -1,30 +1,69 @@
 ---
 layout: page
-title: 2024 March Primary
+title: 2024 November Presidential Election
 ---
 
+<script data-goatcounter="https://bqc.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 I like comparing who different groups endorse. My hope is it helps others find it easier to vote.
 
-## Organizations (some endorsing) for current election
-- [Ballotpedia California](https://ballotpedia.org/California_elections,_2024) - Great impartial site going through all the items on your ballot.
+## National and Senate
+
+*Organizaions*
+
+- [Ballotpedia](https://ballotpedia.org/) - Great impartial site
+
+These generally have the most public information about them, but here we go anyway. I'm ignoring a couple races.
+
+| Office               | Recommendation               | Notable Endorsements         |  
+| -------------------- | ---------------------------  | ---------------------------  |
+| U.S PRESIDENT        | [Kamala Harris](https://kamalaharris.com/)    | [Obligatory XKCD](https://xkcd.com/2962/)         |
+| Arizona           |
+| Florida           |
+| Indiana           |
+| Maine           |
+| Michigan           |
+| Minnesota           |
+| Mississippi           |
+| Missouri           |
+| Montana           |
+| Nebraska           | [Dan Osborn (I)](https://osbornforsenate.com/)               |          |  
+| Nevada           |
+| New Mexico           |
+| North Dakota           |
+| Ohio           |
+| Pennsylvania           |
+| Tennessee           |
+| Texas           |
+| West Virginia           |
+| Wisconsin           |
+| Wyoming |
+
+
+## California Wide
+
+*Organizations Updates for Nov 2024*
 - [**EV** - EnviroVoters](https://www.envirovoters.org/2024-endorsements/)
-- [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com) 
-- [**LABOR** LA County Federation of Labor Endorsements](https://thelafed.org/resource/la-county-federation-of-labor-endorsements/)
 - [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 - [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
 - [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2024/)
 - [BlueVotersGuide](https://bluevoterguide.org) - endorsements include ones from previous elections. Can be confusing. Democratic.
 
+- PROP 2 - Borrow $10 billion in bonds for schools. No, see Borrow note.
+- PROP 3 - Continues Allowing Gay marriage - Yes 
+- PROP 4 - Borrow $10 for parks and environmental protection projects. No, see Borrow note.  
+- PROP 5 - Lower voter approval requirements for local housing and infrastructure bonds. No, only permission to borrow not increase taxes.
+- PROP 6 - Limit forced labor in state prisons. Yes.
+- PROP 32 - Raise the state minimum wage to $18 an hour. Yes.
+- PROP 33 - Allow local governments to impose rent controls. Yes.
+- PROP 34 - WTF. This is weird.
+- PROP 35 - 
+- PROP 36 -
+- PROP 37 - 
 
-## State Wide
 
-* Prop 1 - Mental Health Care and Addiction Treatment Reform & Bonds to Build Places for Treatment and Supportive Housing.  [LWV against.](https://lwvc.org/ballot-measure/prop-1-2024/no-on-prop-1/).
-
-* US Senate
-  PVG - says pick your favorite between [Barbara Lee](https://ballotpedia.org/Barbara_Lee_(California)), [Katie Porter](https://ballotpedia.org/Katie_Porter), and [Adam Schiff](https://ballotpedia.org/Adam_Schiff) that all are good choices.
-  I haven't found anyone to actually endorse one over the others. [CalMatters](https://calmatters.org/california-voter-guide-2024/us-senate/) [2](https://calmatters.org/politics/2024/01/us-senate-california-candidates/)
 
 ## Local
 
@@ -59,6 +98,7 @@ Also see, [Bar association ratings](https://lacba.org/?pg=judicial-elections-eva
 
 
 
+
 <ul class="share-buttons" data-source="simplesharingbuttons.com">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvoteinit.com%2F&quote=VoteInIt!" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="images/social_flat_rounded_rects_svg/Facebook.svg" /></a></li>
   <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fvoteinit.com%2F&text=VoteInIt!:%20https%3A%2F%2Fvoteinit.com%2F" target="_blank" title="Tweet"><img alt="Tweet" src="images/social_flat_rounded_rects_svg/Twitter.svg" /></a></li>
@@ -76,4 +116,6 @@ Also see, [Bar association ratings](https://lacba.org/?pg=judicial-elections-eva
 - [Voters Edge](https://votersedge.org) - Great site to track your specific ballot
 - [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-11)
 - [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-november-midterm-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
+- [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com) 
+- [**LABOR** LA County Federation of Labor Endorsements](https://thelafed.org/resource/la-county-federation-of-labor-endorsements/)
 
