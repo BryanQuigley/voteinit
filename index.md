@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2024 November Presidential Election
+title: 2026 California June 2nd Primary Election
 ---
 
 <script data-goatcounter="https://bqc.goatcounter.com/count"
@@ -14,17 +14,45 @@ I like comparing who different groups endorse. My hope is it helps others find i
 *Organizaions*
 
 - [Ballotpedia](https://ballotpedia.org/) - Great impartial site
-- [Senate Climate Scorecard](https://voteclimatepac.org/senate-scorecard/)
 
 These generally have the most public information about them, but here we go anyway. I'm ignoring a couple races.
 
+
+
 ## California Wide
 
-*Organizations Updates for Nov 2024*
-- [**EV** - EnviroVoters](https://www.envirovoters.org/2024-endorsements/)
+
+### California Statewide Endorsements
+
+| Office | Sierra Club | EnviroVoters (EV) | Labor (CA Fed) | Notes / My Recommendation |
+| :--- | :--- | :--- | :--- | :--- |
+| **Governor** | NR | [Porter](https://ballotpedia.org/Katie_Porter) / [Steyer](https://ballotpedia.org/Tom_Steyer) | [Porter](https://ballotpedia.org/Katie_Porter) / [Steyer](https://ballotpedia.org/Tom_Steyer) / [Villaraigosa](https://ballotpedia.org/Antonio_Villaraigosa) | NR |
+| **Lt. Governor** | NR | [Josh Fryday](https://ballotpedia.org/Josh_Fryday) | [Fiona Ma](https://ballotpedia.org/Fiona_Ma) | ?? |
+| **Attorney General** | [Rob Bonta](https://ballotpedia.org/Rob_Bonta) | Bonta | Bonta | **Incumbent.**  [1 Green and 1 Republican running with courage*](https://ballotpedia.org/California_Attorney_General_election,_2026) |
+| **Secretary of State** | [Shirley Weber](https://ballotpedia.org/Shirley_Weber) | NR | Weber | **Incumbent.** Weber|
+| **Controller** | [Malia Cohen](https://ballotpedia.org/Malia_Cohen) | Cohen | Cohen | **Incumbent.** Cohen  |
+| **Treasurer** | NR | [Eleni Kounalakis](https://ballotpedia.org/Eleni_Kounalakis) | Kounalakis |  [Caballero](https://ballotpedia.org/Anna_Caballero) and [Vazquez](https://ballotpedia.org/Tony_Vazquez) both serious candidates also |
+| **Insurance Comm.** | [Ben Allen](https://ballotpedia.org/Ben_Allen_(California_state_senator)) | Allen | NR | Recommend [Jane Kim](https://ballotpedia.org/Jane_Kim)  |
+| **Supt. Public Inst.** | NR | NR | [Anthony Rendon](https://ballotpedia.org/Anthony_Rendon) / [Al_Muratsuchi](https://ballotpedia.org/Al_Muratsuchi)  | https://ballotpedia.org/Frank_Lara_(California) https://ballotpedia.org/Nichelle_Henderson |
+
+
+
+### Reps
+
+---
+
+### Sources & Organizations
+
+* **Sierra Club CA:** [Endorsements](https://www.sierraclub.org/california/2026-endorsements)
+* **EnviroVoters (EV):** [2026 Endorsements](https://envirovoters.org/2026-endorsements/)
+* **CA Labor Federation:** [Endorsement List](https://calaborfed.org/labor-2026-primary-election-endorsements/)
+* Courage* means taking the [Ballotpedia survey](https://ballotpedia.org/Ballotpedia%27s_Candidate_Connection)
+
+
+### Other Organizations
+
 - [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
-- [Sierra Club](https://angeles.sierraclub.org/political_action/endorsements)
-- [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2024/)
+- [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2026/)
 - [BlueVotersGuide](https://bluevoterguide.org) - endorsements include ones from previous elections. Can be confusing. Democratic.
 - [LWVC Ballot recomendations for Props](https://lwvc.org/ballot-recommendations/)
 
