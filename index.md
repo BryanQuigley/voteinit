@@ -1,13 +1,15 @@
 ---
 layout: page
-title: 2026 California June 2nd Primary Election
+title: 2026 California November 3rd Election
 ---
 
 <script data-goatcounter="https://bqc.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-I like comparing who different groups endorse. My hope is it helps others find it easier to vote.
+I like comparing who different groups endorse. My hope is it helps others find it easier to vote. 
+
+Going to be updated for November over time - see [Official Voter Guide to start](https://voterguide.sos.ca.gov/)
 
 ## National and Senate
 
@@ -22,7 +24,7 @@ These generally have the most public information about them, but here we go anyw
 ## California Wide
 
 
-### California Statewide Endorsements
+### California Statewide Endorsements (2026 needsd updating 
 
 | Office | Sierra Club | EnviroVoters (EV) | Labor (CA Fed) | Notes / My Recommendation |
 | :--- | :--- | :--- | :--- | :--- |
@@ -43,7 +45,7 @@ These generally have the most public information about them, but here we go anyw
 
 ### Sources & Organizations
 
-* **Sierra Club CA:** [Endorsements](https://www.sierraclub.org/california/2026-endorsements)
+* **Sierra Club CA:** [2026 Endorsements](https://www.sierraclub.org/california/2026-endorsements-scc-political-committee)
 * **EnviroVoters (EV):** [2026 Endorsements](https://envirovoters.org/2026-endorsements/)
 * **CA Labor Federation:** [Endorsement List](https://calaborfed.org/labor-2026-primary-election-endorsements/)
 * Courage* means taking the [Ballotpedia survey](https://ballotpedia.org/Ballotpedia%27s_Candidate_Connection)
