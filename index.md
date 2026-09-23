@@ -24,7 +24,7 @@ These generally have the most public information about them, but here we go anyw
 ## California Wide
 
 
-### California Statewide Endorsements (2026 needsd updating 
+### California Statewide Endorsements (2026 needs updating)
 
 | Office | Sierra Club | EnviroVoters (EV) | Labor (CA Fed) | Notes / My Recommendation |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,24 +39,45 @@ These generally have the most public information about them, but here we go anyw
 
 
 
-### Reps
+### Propositions
 
----
+| Prop | Summary                                            | LWV | Sierra Club | EnviroVoters | Labor  | CalChamber | ACLU | Your Position |
+| :--- | :------------------------------------------------- | :-- | :---------- | :----------- | :----- | :--------- | :--- | :------------ |
+| 1    | Veterans & Affordable Housing Bonds                | Yes | Yes         | —            | Yes    | Yes        | Yes  |               |
+| 2    | Save for California's Future Act                   | Yes | —           | Yes          | Yes    | Yes        | —    | Strong Yes    |
+| 3    | Children's Education & Health Care Protection      | Yes | —           | —            | Yes    | —          | Yes  | Strong Yes    |
+| 4    | California Fair Elections Act                      | Yes | Yes         | Yes          | Yes    | No         | Yes  | Yes           |
+| 5    | Recall Election Reform for Statewide Officers      | Yes | Yes         | —            | Yes    | —          | —    | Yes           |
+| 37   | Loan Program for Middle-Income Buyers of New Homes | No  | —           | —            | Yes    | Yes        | —    |               |
+| 38   | Bonds for Immunology Medical Research              | No  | —           | —            | —      | —          | —    | Strong No     |
+| 39   | Prohibits Voting Without Government-Issued ID      | No  | No          | No           | No     | —          | No   | Strong No     |
+| 40   | Billionaire Wealth Tax Initiative                  | NR  | —           | —            | Yes    | No         | Yes  |               |
+| 41   | Requires Audits for New State Special Taxes        | No  | —           | —            | No     | Yes        | No   | Strong No     |
+| 42   | Prohibits New State Personal Property Taxes        | No  | —           | —            | No     | Yes        | No   | Strong No     |
+| 43   | Limits Revenues for Local Government Services      | No  | No          | No           | No     | Yes        | No   | Strong No     |
+| 44   | Community Clinics Spending Threshold on Services   | No  | —           | —            | Yes    | No         | —    |               |
+| 45   | Modifies Environmental Review for Certain Projects | No  | No          | No           | No     | Yes        | No   |               |
+
 
 ### Sources & Organizations
 
+* **LWV** [Ballot recomendations for Props](https://lwvc.org/ballot-recommendations/)
 * **Sierra Club CA:** [2026 Endorsements](https://www.sierraclub.org/california/2026-endorsements-scc-political-committee)
 * **EnviroVoters (EV):** [2026 Endorsements](https://envirovoters.org/2026-endorsements/)
 * **CA Labor Federation:** [Endorsement List](https://calaborfed.org/labor-2026-primary-election-endorsements/)
-* Courage* means taking the [Ballotpedia survey](https://ballotpedia.org/Ballotpedia%27s_Candidate_Connection)
+* **CalChamber** [November Ballot Measures](https://advocacy.calchamber.com/2026/09/11/calchamber-board-of-directors-announces-positions-on-november-ballot-measures/)
+* **ACLU Socal** [Voter Guide](https://www.aclusocal.org/aclu-socal-2026-voter-guide/)
+
+If you want to dive deeper I strongly recommend [Ballotpedia](https://ballotpedia.org/California_2026_ballot_propositions)
 
 
 ### Other Organizations
 
+* Courage* means taking the [Ballotpedia survey](https://ballotpedia.org/Ballotpedia%27s_Candidate_Connection) 
 - [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 - [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2026/)
 - [BlueVotersGuide](https://bluevoterguide.org) - endorsements include ones from previous elections. Can be confusing. Democratic.
-- [LWVC Ballot recomendations for Props](https://lwvc.org/ballot-recommendations/)
+
 
 
 ## Local
@@ -83,8 +104,5 @@ Also see, [Bar association ratings](https://lacba.org/?pg=judicial-elections-eva
 
 ## Other sites / some may not be updated yet:
 - [Voters Edge](https://votersedge.org) - Great site to track your specific ballot
-- [SPUR on ballot measures](https://www.spur.org/voter-guide/2022-11)
-- [KLAPVG - Knock LA Progressive Voter Guide](https://knock-la.com/los-angeles-progressive-voter-guide-november-midterm-election-2022/) \* means they officially endorsed. Has most detailed explanation why they support someone.
 - [**PVG** - ProgressiveVotersGuide ](https://progressivevotersguide.com) 
-- [**LABOR** LA County Federation of Labor Endorsements](https://thelafed.org/resource/la-county-federation-of-labor-endorsements/)
 
