@@ -9,53 +9,36 @@ title: 2026 California November 3rd Election
 
 I like comparing who different groups endorse. My hope is it helps others find it easier to vote. 
 
-Going to be updated for November over time - see [Official Voter Guide to start](https://voterguide.sos.ca.gov/)
-
-## National and Senate
-
-*Organizaions*
-
-- [Ballotpedia](https://ballotpedia.org/) - Great impartial site
-
-These generally have the most public information about them, but here we go anyway. I'm ignoring a couple races.
-
-
+Updated for November focusing on California - see [official voter guide](https://voterguide.sos.ca.gov/).  If out of California, [Ballotpedia](https://ballotpedia.org/) is another great resource.
 
 ## California Wide
 
-
 ### California Statewide Endorsements (2026 needs updating)
 
-| Office | Sierra Club | EnviroVoters (EV) | Labor (CA Fed) | Notes / My Recommendation |
-| :--- | :--- | :--- | :--- | :--- |
-| **Governor** | NR | [Porter](https://ballotpedia.org/Katie_Porter) / [Steyer](https://ballotpedia.org/Tom_Steyer) | [Porter](https://ballotpedia.org/Katie_Porter) / [Steyer](https://ballotpedia.org/Tom_Steyer) / [Villaraigosa](https://ballotpedia.org/Antonio_Villaraigosa) | NR |
-| **Lt. Governor** | NR | [Josh Fryday](https://ballotpedia.org/Josh_Fryday) | [Fiona Ma](https://ballotpedia.org/Fiona_Ma) | ?? |
-| **Attorney General** | [Rob Bonta](https://ballotpedia.org/Rob_Bonta) | Bonta | Bonta | **Incumbent.**  [1 Green and 1 Republican running with courage*](https://ballotpedia.org/California_Attorney_General_election,_2026) |
-| **Secretary of State** | [Shirley Weber](https://ballotpedia.org/Shirley_Weber) | NR | Weber | **Incumbent.** Weber|
-| **Controller** | [Malia Cohen](https://ballotpedia.org/Malia_Cohen) | Cohen | Cohen | **Incumbent.** Cohen  |
-| **Treasurer** | NR | [Eleni Kounalakis](https://ballotpedia.org/Eleni_Kounalakis) | Kounalakis |  [Caballero](https://ballotpedia.org/Anna_Caballero) and [Vazquez](https://ballotpedia.org/Tony_Vazquez) both serious candidates also |
-| **Insurance Comm.** | [Ben Allen](https://ballotpedia.org/Ben_Allen_(California_state_senator)) | Allen | NR | Recommend [Jane Kim](https://ballotpedia.org/Jane_Kim)  |
-| **Supt. Public Inst.** | NR | NR | [Anthony Rendon](https://ballotpedia.org/Anthony_Rendon) / [Al_Muratsuchi](https://ballotpedia.org/Al_Muratsuchi)  | https://ballotpedia.org/Frank_Lara_(California) https://ballotpedia.org/Nichelle_Henderson |
+Endorsements were pretty one sided for most races, so just picking the ones that are more interesting.
 
-
+| Office                 | Sierra Club | EnviroVoters (EV) | Labor (CA Fed) | Notes / My Recommendation |
+| :------------------    | :---------  | :--- | :--- | :--- |
+| **Insurance Comm.**    | [Ben Allen](https://ballotpedia.org/Ben_Allen_(California_state_senator)) | Allen | [Jane Kim](https://ballotpedia.org/Jane_Kim) | TODO |
+| **Equalization D 3**   | NR          | [Sam Sukaton](https://ballotpedia.org/Samuel_Sukaton)  | [Mike Gipson](https://ballotpedia.org/Mike_Gipson) |    TODO  |
 
 ### Propositions
 
 | Prop | Summary                                            | LWV | Sierra Club | EnviroVoters | Labor  | CalChamber | ACLU | Your Position |
 | :--- | :------------------------------------------------- | :-- | :---------- | :----------- | :----- | :--------- | :--- | :------------ |
-| 1    | Veterans & Affordable Housing Bonds                | Yes | Yes         | —            | Yes    | Yes        | Yes  |               |
+| 1    | Veterans & Affordable Housing Bonds                | Yes | Yes         | —            | Yes    | Yes        | Yes  |  s             |
 | 2    | Save for California's Future Act                   | Yes | —           | Yes          | Yes    | Yes        | —    | Strong Yes    |
 | 3    | Children's Education & Health Care Protection      | Yes | —           | —            | Yes    | —          | Yes  | Strong Yes    |
 | 4    | California Fair Elections Act                      | Yes | Yes         | Yes          | Yes    | No         | Yes  | Yes           |
 | 5    | Recall Election Reform for Statewide Officers      | Yes | Yes         | —            | Yes    | —          | —    | Yes           |
-| 37   | Loan Program for Middle-Income Buyers of New Homes | No  | —           | —            | Yes    | Yes        | —    |               |
+| 37   | Loan Program for Middle-Income Buyers of New Homes | No  | —           | —            | Yes    | Yes        | —    | No - not convinced the math makes sense    |
 | 38   | Bonds for Immunology Medical Research              | No  | —           | —            | —      | —          | —    | Strong No     |
 | 39   | Prohibits Voting Without Government-Issued ID      | No  | No          | No           | No     | —          | No   | Strong No     |
-| 40   | Billionaire Wealth Tax Initiative                  | NR  | —           | —            | Yes    | No         | Yes  |               |
+| 40   | Billionaire Wealth Tax Initiative                  | —   | —           | —            | Yes    | No         | Yes  | Strong Yes    |
 | 41   | Requires Audits for New State Special Taxes        | No  | —           | —            | No     | Yes        | No   | Strong No     |
 | 42   | Prohibits New State Personal Property Taxes        | No  | —           | —            | No     | Yes        | No   | Strong No     |
 | 43   | Limits Revenues for Local Government Services      | No  | No          | No           | No     | Yes        | No   | Strong No     |
-| 44   | Community Clinics Spending Threshold on Services   | No  | —           | —            | Yes    | No         | —    |               |
+| 44   | Community Clinics Spending Threshold on Services   | No  | —           | —            | Yes    | No         | —    | No            |
 | 45   | Modifies Environmental Review for Certain Projects | No  | No          | No           | No     | Yes        | No   |               |
 
 
@@ -74,18 +57,15 @@ If you want to dive deeper I strongly recommend [Ballotpedia](https://ballotpedi
 ### Other Organizations
 
 * Courage* means taking the [Ballotpedia survey](https://ballotpedia.org/Ballotpedia%27s_Candidate_Connection) 
-- [LACDP - Los Angeles County Democratic party](https://www.lacdp.org/candidates)
 - [CalMatters Voter Guide](https://calmatters.org/california-voter-guide-2026/)
 - [BlueVotersGuide](https://bluevoterguide.org) - endorsements include ones from previous elections. Can be confusing. Democratic.
-
-
 
 ## Local
 
 
 ## Superior Court of Los Angeles County
 
-Also see, [Bar association ratings](https://lacba.org/?pg=judicial-elections-evaluation)
+See, [Bar association ratings](https://lacba.org/?pg=judicial-elections-evaluation).  Also BlueVoterGuide has some more info.
 
 
 
